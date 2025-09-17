@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "brand": "丰田",
+    "model": "凯美瑞",
+    "price": "17.98万起",
+    "image": "https://picsum.photos/600/400?random=1"
+  },
+  {
+    "id": 2,
+    "brand": "本田",
+    "model": "雅阁",
+    "price": "16.98万起",
+    "image": "https://picsum.photos/600/400?random=2"
+  }
+]
