@@ -14,7 +14,12 @@
     "width": 2018,
     "height": 1648,
     "wheelbase": 3552,
-    "image": "https://ts1.tc.mm.bing.net/th/id/R-C.e11c30b8b8c4debbfe6a8e65ec190a69?rik=1hQGAmEAUQvIFQ&riu=http%3a%2f%2fwww.myeurostar.com.cn%2fvehicle-type%2fimg%2f07-phantom-ewb_owner-story.jpg.rr.2048.LOW.jpg&ehk=Zsp02k9Pi5SZu%2fhfLKUySmdB9Mm5t6O1%2fnUnHyE62RE%3d&risl=&pid=ImgRaw&r=0"
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/R-C.e11c30b8b8c4debbfe6a8e65ec190a69?rik=1hQGAmEAUQvIFQ&riu=http%3a%2f%2fwww.myeurostar.com.cn%2fvehicle-type%2fimg%2f07-phantom-ewb_owner-story.jpg.rr.2048.LOW.jpg&ehk=Zsp02k9Pi5SZu%2fhfLKUySmdB9Mm5t6O1%2fnUnHyE62RE%3d&risl=&pid=ImgRaw&r=0",
+      "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20230418/15532560989e0c.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.6cca0a3f33deeaba0d6e8ce6f7ec3aea?rik=2gb7vFmRks6x6g&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20201210ac%2f120%2fw1440h1080%2f20201210%2f79bc-keyancx6939017.jpg&ehk=Sf25S9BZXNCq9ivmZRwPveh3bye%2bo6WZWBYMni%2f8Z2E%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "全铝车身+手工定制内饰，6.7T V12发动机带可变气门正时，魔毯空气悬架"
   },
   {
     "id": 2,
@@ -31,7 +36,12 @@
     "width": 2000,
     "height": 1837,
     "wheelbase": 3295,
-    "image": "https://img0.pcauto.com.cn/pcauto/1809/08/12895635_86594385_1526002080503.jpg"
+    "image": [
+      "https://img0.pcauto.com.cn/pcauto/1809/08/12895635_86594385_1526002080503.jpg",
+      "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20230425/135015224f3f21.jpg",
+      "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20230516/134439462f6869_preview.jpg"
+    ],
+    "techHighlight": "全时四驱系统带扭矩矢量分配，自适应空气悬架+车身高度可调，定制星光车顶"
   },
   {
     "id": 3,
@@ -48,7 +58,12 @@
     "width": 2187,
     "height": 1405,
     "wheelbase": 2851,
-    "image": "https://ts1.tc.mm.bing.net/th/id/R-C.c9eed64b4d710dd88f842524fc4aadb5?rik=makvn61487qGrw&riu=http%3a%2f%2fwww.tjbsq.com%2fuploads%2fallimg%2f20210429%2f11-210429151916.jpg&ehk=rNGXlv3NuuJhI6U1o%2bh6AfHN14viMuakUm0NfF7s8%2f8%3d&risl=&pid=ImgRaw&r=0"
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/R-C.c9eed64b4d710dd88f842524fc4aadb5?rik=makvn61487qGrw&riu=http%3a%2f%2fwww.tjbsq.com%2fuploads%2fallimg%2f20210429%2f11-210429151916.jpg&ehk=rNGXlv3NuuJhI6U1o%2bh6AfHN14viMuakUm0NfF7s8%2f8%3d&risl=&pid=ImgRaw&r=0",
+      "https://www.tjbsq.com/uploads/allimg/20201130/11-201130134323.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.c728adccd932964c3b3a2c1e1a2c7946?rik=fwJx%2b%2byP4iCSgQ&riu=http%3a%2f%2fx0.ifengimg.com%2fauto%2fdealer%2f20210823%2f86133_news_1629699672116.jpg&ehk=SBDZqvGdOjrojbtl86cF9DVu7U%2f3f34ymteQpoNI4ac%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "4.0T V8双涡轮发动机+48V轻混，自适应电磁悬架，手工缝制真皮内饰+金属饰板"
   },
   {
     "id": 4,
@@ -65,7 +80,12 @@
     "width": 1974,
     "height": 1301,
     "wheelbase": 2670,
-    "image": "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20220929/0931044327c58b.jpg"
+    "image": [
+      "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20220929/0931044327c58b.jpg",
+      "https://image.bitautoimg.com/appimage-630-w1/mapi/media/2020/11/09/7f6e88980acc43d8bca35ac8e6e124b8.jpeg",
+      "https://image.bitautoimg.com/appimage-630-w1/mapi/media/2020/11/07/eaf4d16f535c4d859f24b4d42925d989.jpeg"
+    ],
+    "techHighlight": "3.9T V8双涡轮发动机+8速双离合变速箱，F1-Trac牵引力控制系统，主动空气动力学套件"
   },
   {
     "id": 5,
@@ -82,7 +102,12 @@
     "width": 1974,
     "height": 1220,
     "wheelbase": 2620,
-    "image": "https://n.sinaimg.cn/sinakd2021418s/450/w800h450/20210418/9e4f-knvsnuh1684226.jpg"
+    "image": [
+      "https://n.sinaimg.cn/sinakd2021418s/450/w800h450/20210418/9e4f-knvsnuh1684226.jpg",
+      "https://img1.xcarimg.com/b67/s12722/20201123220030576430153525693.jpg",
+      "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g24/M04/77/00/752x0_q100_autohomecar__Chxky2P1mbSAJW5RAAE9N0VAN88127.jpg?text/6ZGr5LuU5pKp6L2m/fontSize/13"
+    ],
+    "techHighlight": "5.2L V10自然吸气发动机，碳纤维单体壳车身，赛道级Brembo碳陶瓷刹车"
   },
   {
     "id": 6,
@@ -99,7 +124,12 @@
     "width": 1852,
     "height": 1300,
     "wheelbase": 2450,
-    "image": "https://n.sinaimg.cn/sinakd20200404ac/107/w1024h683/20200404/e3f7-irtymmw1111396.jpg"
+    "image": [
+      "https://n.sinaimg.cn/sinakd20200404ac/107/w1024h683/20200404/e3f7-irtymmw1111396.jpg",
+      "https://www.eenzo.com/upload/cars/20230426/20230426215714_73317.jpeg",
+      "https://www.eenzo.com/upload/cars/20220519/20220519140003_48012.jpg"
+    ],
+    "techHighlight": "3.8T水平对置六缸+8速PDK双离合，保时捷4D-Chassis Control，主动式后轮转向"
   },
   {
     "id": 7,
@@ -117,7 +147,12 @@
     "width": 1846,
     "height": 1481,
     "wheelbase": 2966,
-    "image": "https://ts1.tc.mm.bing.net/th/id/R-C.12a4cda88b2d20ba5fd315fda811bf05?rik=kN6pu2CB0Q%2bfPw&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fttauto%2f2023%2f02%2f22%2f7202511081729032741%2f543d009ed5674822830deb9d5a215e1e.png&ehk=EDVZC%2b8lvxmQqKHs%2fWFY5WM2NRspLx1cBbO1HV7RHPs%3d&risl=&pid=ImgRaw&r=0"
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/R-C.12a4cda88b2d20ba5fd315fda811bf05?rik=kN6pu2CB0Q%2bfPw&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fttauto%2f2023%2f02%2f22%2f7202511081729032741%2f543d009ed5674822830deb9d5a215e1e.png&ehk=EDVZC%2b8lvxmQqKHs%2fWFY5WM2NRspLx1cBbO1HV7RHPs%3d&risl=&pid=ImgRaw&r=0",
+      "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2409/04/c42/444510410_1725430766274.jpg",
+      "https://www.modiauto.com.cn/auto/images/202301/202301051502131e41727b13b9d.jpeg?image_process=resize,fw_800,fh_600"
+    ],
+    "techHighlight": "后置后驱布局+第五代eDrive技术，79.1kWh高容量电池，BMW智能驾驶辅助系统"
   },
   {
     "id": 8,
@@ -135,7 +170,12 @@
     "width": 1900,
     "height": 1495,
     "wheelbase": 2900,
-    "image": "https://xqimg.imedao.com/189882a20b47fa873fedf777.png!800.jpg"
+    "image": [
+      "https://xqimg.imedao.com/189882a20b47fa873fedf777.png!800.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.b95fd7f80a2e2ccdc494272f4f942d23?rik=eiC66TuWyufGYA&riu=http%3a%2f%2fs3.xchuxing.com%2fxchuxing%2fcar-attachment%2f2023%2f08%2f26%2f465d0202308260003366574.png&ehk=uLJd4VjlkeiySxXCfIBEcd3UTFLSKQ8hxFwLW7MXhJI%3d&risl=&pid=ImgRaw&r=0",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.f0d7b2909216842e95e812de45d65924?rik=l4CYWoNB1aoHzA&riu=http%3a%2f%2fauto.sinaimg.cn%2fautoimg%2fserial%2f06%2f17%2f667000239444b3821706_950.jpg&ehk=Yjn%2bXeAhLweqj8zA5l3Hi7D0tLkLxXS1xk59jBRroM8%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "DM-i超级混动技术，30.7kWh电池纯电续航230km，刀片电池安全防护"
   },
   {
     "id": 9,
@@ -153,13 +193,18 @@
     "width": 1938,
     "height": 1621,
     "wheelbase": 2893,
-    "image": "https://ts2.tc.mm.bing.net/th/id/OIP-C.1hhScfTHROW2Q_iscXssEwHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
+    "image": [
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.1hhScfTHROW2Q_iscXssEwHaE7?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.jZbrITTR2EMu5oevDRXlUAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.704c64da17ef3ec0e47a073fcbcf239b?rik=U4UJsb14VguDcQ&riu=http%3a%2f%2fs3.xchuxing.com%2fxchuxing%2fforum%2f201902%2f26%2f214018f4th3izhz0eesptl.jpg&ehk=8LbSQGP7Np%2fZSf85gbn8htPAiX4W8Y%2bR%2f%2fdDPVpdiMM%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "双电机全时四驱+100kWh电池，270kW超快充（10%-80%仅21分钟），保时捷Active Suspension Management"
   },
   {
     "id": 10,
     "brand": "兰博基尼",
     "model": "Urus SE",
-    "price": "未公布",
+    "price": "294.11万起",
     "type": "插电混动SUV",
     "power": 800,
     "torque": 950,
@@ -171,7 +216,12 @@
     "width": 2016,
     "height": 1638,
     "wheelbase": 3003,
-    "image": "https://ts1.tc.mm.bing.net/th/id/OIP-C.F_YvgknypjETKjTqePG_ewHaD6?rs=1&pid=ImgDetMain&o=7&rm=3"
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.F_YvgknypjETKjTqePG_ewHaD6?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://doc-fd.zol-img.com.cn/t_s640x2000/g7/M00/08/06/ChMkK2YunNyILFmrAAeAlbT27T8AAdioABWgHgAB4Ct221.jpg",
+      "https://x0.ifengimg.com/ucms/2021_24/DD157AAA5E951476B303884BEA287B7BA7BFF05A_size58_w660_h486.jpg"
+    ],
+    "techHighlight": "4.0T V8+永磁同步电机混动系统，兰博基尼ANIMA驾驶模式选择，碳陶瓷刹车系统"
   },
   {
     "id": 11,
@@ -189,7 +239,12 @@
     "width": 1770,
     "height": 1570,
     "wheelbase": 2700,
-    "image": "https://ts2.tc.mm.bing.net/th/id/OIP-C.NHB1jJny3ts4uiY05LImuwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
+    "image": [
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.NHB1jJny3ts4uiY05LImuwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.85N4Dy_IuceDiHMtp3vctQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.P4Jl-bz0F8tTkSA0qKDt2QHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "techHighlight": "e平台3.0技术，44.9kWh刀片电池，DiPilot智能驾驶辅助+全景影像"
   },
   {
     "id": 12,
@@ -207,7 +262,12 @@
     "width": 1891,
     "height": 1689,
     "wheelbase": 2864,
-    "image": "https://img1.bitautoimg.com/autoalbum/files/20210829/672/202108291053105310201192_8952556_22.jpg"
+    "image": [
+      "https://img1.bitautoimg.com/autoalbum/files/20210829/672/202108291053105310201192_8952556_22.jpg",
+      "https://n.sinaimg.cn/sinakd20200714ac/600/w1920h1080/20200714/a72c-iwhseiu4094376.jpg",
+      "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g25/M02/92/72/752x0_q100_autohomecar__ChxkqWP3Mr2ABeFTAADZFtLTIKM401.png?text/5pyJ54K56L2m5LqL/fontSize/13"
+    ],
+    "techHighlight": "后置后驱纯电布局，74kWh电池+智能热管理，BMW Digital Key数字钥匙"
   },
   {
     "id": 13,
@@ -225,6 +285,640 @@
     "width": 1964,
     "height": 1445,
     "wheelbase": 2960,
-    "image": "https://p0.ifengimg.com/2019_12/88ED177E3EBC436FC5E2D393EF69623E2F6E28C9_w1269_h714.jpg"
+    "image": [
+      "https://p0.ifengimg.com/2019_12/88ED177E3EBC436FC5E2D393EF69623E2F6E28C9_w1269_h714.jpg",
+      "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g30/M05/89/4D/752x0_q100_autohomecar__ChxknGRWFhyAG5C7AA3IbbMGQQs080.png?text/562U562U5Lmw6L2m/fontSize/13",
+      "https://zhongces3.sina.com.cn/products/201511/63ded55c399ba86f80be6e9395b2112d.jpg"
+    ],
+    "techHighlight": "双电机全时四驱+100kWh电池，Tesla Autopilot自动辅助驾驶，17英寸触控屏+车载系统"
+  },
+  {
+    "id": 14,
+    "brand": "阿斯顿·马丁",
+    "model": "DB11 V8 Coupe",
+    "price": "235.80万",
+    "type": "豪华GT跑车",
+    "horsepower": 510,
+    "torque": 675,
+    "displacement": "4.0T V8",
+    "driveType": "前置后驱",
+    "seats": 4,
+    "length": 4750,
+    "width": 1950,
+    "height": 1300,
+    "wheelbase": 2805,
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/R-C.3e43b1c6841b7f2acb98cf4b4abbe4fb?rik=PB%2bXyMo6TsoDVw&riu=http%3a%2f%2fwww.sinaimg.cn%2fqc%2fphoto_auto%2fphoto%2f81%2f04%2f71388104%2f71388104_950.jpg&ehk=vsbIuXyFIJrcy4su3oBWoum3FuGfQjp9W1e22IMKl5M%3d&risl=&pid=ImgRaw&r=0",
+      "https://img1.xcarimg.com/b81/s12879/20201121152103284432133482496.jpg",
+      "https://www.eenzo.com/upload/cars/20221031/20221031153211_19482.jpg"
+    ],
+    "techHighlight": "48V轻混系统+自适应电磁悬挂，风阻系数0.31Cd，手工打造真皮内饰"
+  },
+  {
+    "id": 15,
+    "brand": "阿斯顿·马丁",
+    "model": "Vantage F1 Edition",
+    "price": "198.80万",
+    "type": "性能跑车",
+    "horsepower": 535,
+    "torque": 685,
+    "displacement": "4.0T V8",
+    "driveType": "前置后驱",
+    "seats": 2,
+    "length": 4465,
+    "width": 1942,
+    "height": 1273,
+    "wheelbase": 2704,
+    "image": [
+      "https://ts3.tc.mm.bing.net/th/id/OIP-C.KbDHstu7QyucYge2gnNOyQHaE5?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g28/M09/7B/E5/752x0_q100_autohomecar__ChxkmmR1vICANzEYAASCzBdmjWA084.png?text/5paw6L2m6L-3572R/fontSize/13",
+      "https://p1.itc.cn/images01/20230530/c8da0a544a6d49498025e6f2fc361175.jpeg"
+    ],
+    "techHighlight": "赛道级空力套件，7速手动变速箱可选，阿斯顿·马丁动态稳定控制系统"
+  },
+  {
+    "id": 16,
+    "brand": "凯迪拉克",
+    "model": "Escalade V",
+    "price": "115.50万",
+    "type": "全尺寸性能SUV",
+    "horsepower": 682,
+    "torque": 885,
+    "displacement": "6.2T V8 机械增压",
+    "driveType": "全时四驱",
+    "seats": 8,
+    "length": 5382,
+    "width": 2059,
+    "height": 1948,
+    "wheelbase": 3071,
+    "image": [
+      "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2201/24/c18/293982953_1643015447593_1024.jpg",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.rQH7Leq7Qcxg9px4WppCzAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://n.sinaimg.cn/sinakd10107/600/w1920h1080/20230626/7f14-df55e50e41ef48ff8a4b33138f7717be.jpg"
+    ],
+    "techHighlight": "42扬声器AKG音响+空气悬架，towing capacity 8100磅，Super Cruise超级辅助驾驶"
+  },
+  {
+    "id": 17,
+    "brand": "凯迪拉克",
+    "model": "Lyriq锐歌",
+    "price": "43.97万起",
+    "type": "电动中型SUV",
+    "power": 340,
+    "torque": 440,
+    "batteryCapacity": 95.7,
+    "range": 653,
+    "driveType": "后置后驱",
+    "seats": 5,
+    "length": 5003,
+    "width": 1977,
+    "height": 1637,
+    "wheelbase": 3094,
+    "image": [
+      "https://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20221107/19/wemedia/e9af48e738045f2f1e6a9b9468199834d4f82451_size989_w4411_h2313.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.4459b23dbf9f89242ef42e25fecea8ca?rik=mlkJZKjjJZXTGQ&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fttauto%2f2022%2f11%2f15%2f7165873025785807393%2fafa623ee94f54608a86b4377b5fa1ac7.png&ehk=rz6v4StMl5qUHwa7qfznABTF%2bqjWnq6OOzURqd6uP08%3d&risl=&pid=ImgRaw&r=0",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.VUry6xHP40T2ezE2ABVzjAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "techHighlight": "33英寸环幕屏+Super Cruise超级辅助驾驶，95.7kWh电池+190kW快充"
+  },
+  {
+    "id": 18,
+    "brand": "道奇",
+    "model": "Charger Daytona Scat Pack",
+    "price": "约85万",
+    "type": "电动肌肉车",
+    "power": 670,
+    "torque": 850,
+    "batteryCapacity": 100.5,
+    "range": 418,
+    "driveType": "全时四驱",
+    "seats": 5,
+    "length": 5027,
+    "width": 1963,
+    "height": 1480,
+    "wheelbase": 3053,
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.1uRpzHy1yXzkhzY-4MTNQwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.mZ8zTJ3h5K2Xc8hVm7AobwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts4.tc.mm.bing.net/th/id/OIP-C.r3Ll16VEn5SrVZKr6atCEAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "techHighlight": "800V架构+两速变速箱，0-96km/h加速3.3秒，复古肌肉车造型+主动声浪模拟"
+  },
+  {
+    "id": 19,
+    "brand": "道奇",
+    "model": "Durango SRT Hellcat",
+    "price": "约92万",
+    "type": "性能SUV",
+    "horsepower": 710,
+    "torque": 875,
+    "displacement": "6.2T V8 机械增压",
+    "driveType": "全时四驱",
+    "seats": 7,
+    "length": 5110,
+    "width": 2014,
+    "height": 1802,
+    "wheelbase": 3045,
+    "image": [
+      "https://ts3.tc.mm.bing.net/th/id/OIP-C.Sst9g8oLVpFiwfUhqnz36AHaEI?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://p0.ssl.img.360kuai.com/t0142ed854f37c593ee.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.b4f3a796ca90a82d912a7d15cf58042b?rik=VAg0Wqu%2foxNRjQ&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fupload%2fupc%2ftx%2fauto5%2f2012%2f16%2fc1%2f245733536_1608089910517.jpg&ehk=1DKmhQ6B%2bC0%2fEvmvh310O7gMa3JT9KG6TdcMSPjnRPQ%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "三排座椅+Brembo六活塞卡钳，towing capacity 8700磅，SRT Performance Pages性能监测"
+  },
+  {
+    "id": 20,
+    "brand": "欧拉",
+    "model": "闪电猫 四驱高性能版",
+    "price": "26.98万",
+    "type": "电动轿跑",
+    "power": 340,
+    "torque": 680,
+    "batteryCapacity": 83.49,
+    "range": 600,
+    "driveType": "双电机四驱",
+    "seats": 5,
+    "length": 4871,
+    "width": 1862,
+    "height": 1500,
+    "wheelbase": 2870,
+    "image": [
+      "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2310/31/c40/389633474_1698767176168.jpg",
+      "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2405/06/c0/421480292_1714959046085.jpg",
+      "https://img1.xcarimg.com/b385/s14182/2000_1500_20220929201606900221106516733.jpg"
+    ],
+    "techHighlight": "无框车门+自适应电动尾翼，0-100km/h加速4.3秒，ORA-PILOT 3.0智能驾驶"
+  },
+  {
+    "id": 21,
+    "brand": "欧拉",
+    "model": "芭蕾猫 莫兰迪版",
+    "price": "19.30万",
+    "type": "复古电动车",
+    "power": 171,
+    "torque": 250,
+    "batteryCapacity": 59.1,
+    "range": 500,
+    "driveType": "前置前驱",
+    "seats": 5,
+    "length": 4401,
+    "width": 1867,
+    "height": 1633,
+    "wheelbase": 2750,
+    "image": [
+      "https://image.bitauto.com/autoalbum/files/20220421/800/202204211929050595180032353-750x500-w0.png",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.-4lnHE55RIABe4uNvqMOTQHaE1?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://www.modiauto.com.cn/auto/images/202311/20231121170919bde021abd4911.jpg?image_process=resize,fw_800,fh_600"
+    ],
+    "techHighlight": "女性模式+暖男模式，复古造型设计，59.1kWh电池+快充（30%-80%30分钟）"
+  },
+  {
+    "id": 22,
+    "brand": "广汽传祺",
+    "model": "M8宗师版",
+    "price": "26.98万起",
+    "type": "豪华MPV",
+    "horsepower": 252,
+    "torque": 400,
+    "displacement": "2.0T 插电混动",
+    "driveType": "前置前驱",
+    "seats": 7,
+    "length": 5212,
+    "width": 1893,
+    "height": 1823,
+    "wheelbase": 3070,
+    "image": [
+      "https://img1.xcarimg.com/b193/s15278/20221115171123193516787762413.jpg",
+      "https://img2.bitautoimg.com/autoalbum/files/20220817/987/202208172121071361698754789_9918153_6.jpg",
+      "https://img2.bitautoimg.com/autoalbum/files/20220826/456/202208261123144542745649104_9949085_22.jpg"
+    ],
+    "techHighlight": "双12.3英寸联屏+后排娱乐屏，综合续航1030km，第二排航空座椅带按摩/加热"
+  },
+  {
+    "id": 23,
+    "brand": "广汽传祺",
+    "model": "影豹R-style赛道版",
+    "price": "13.68万",
+    "type": "性能轿车",
+    "horsepower": 265,
+    "torque": 400,
+    "displacement": "2.0T L4",
+    "driveType": "前置前驱",
+    "seats": 5,
+    "length": 4700,
+    "width": 1850,
+    "height": 1432,
+    "wheelbase": 2736,
+    "image": [
+      "https://p.xincheping.com/202104/75/dim800x600_ff8e8c138e46b993b7e5aec1cd691c_700.jpeg",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.dj0TzkBQnBpy3PITcjGpOQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.pFbQRF9K2aFB2hdU8AlbOQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "techHighlight": "可变声浪排气+运动外观套件，0-100km/h加速5.7秒，传祺ADiGO智能驾驶辅助"
+  },
+  {
+    "id": 24,
+    "brand": "英力士",
+    "model": "Grenadier Trialmaster Edition",
+    "price": "90.80万",
+    "type": "硬派越野车",
+    "horsepower": 286,
+    "torque": 450,
+    "displacement": "3.0T 直列六缸",
+    "driveType": "全时四驱",
+    "seats": 5,
+    "length": 4896,
+    "width": 1930,
+    "height": 2036,
+    "wheelbase": 2922,
+    "image": [
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.SRNidkFWSPPZzxk7p7ViTAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.blENQyi8_Uu40mRVAp_DqQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.Q97I1puOdyDw9qw8vY1u3wHaF_?rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "techHighlight": "三把差速锁+非承载式车身，涉水深度800mm，全地形轮胎+底盘护板"
+  },
+  {
+    "id": 25,
+    "brand": "捷豹",
+    "model": "F-PACE SVR",
+    "price": "89.80万",
+    "type": "性能SUV",
+    "horsepower": 550,
+    "torque": 700,
+    "displacement": "5.0T V8 机械增压",
+    "driveType": "全时四驱",
+    "seats": 5,
+    "length": 4747,
+    "width": 2071,
+    "height": 1664,
+    "wheelbase": 2874,
+    "image": [
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.t3nl44_UaOA8M7H-weyY8QHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://img1.xcarimg.com/news/3/36976/37807/846_475_20201202110429109981327401152.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.8e15aebbbf1bda0b8b1d24d84c0dc896?rik=Ib3MIzKUd6rHwA&riu=http%3a%2f%2fwww2.autoimg.cn%2fchejiahaodfs%2fg1%2fM02%2f00%2fFC%2fautohomecar__ChsEmV_HBduAMs6sAAKLytDkcvA057.jpg&ehk=8sBFBr6GwcM9KiMsGa9BeHpoGe2AUfdSqr7JL2mLYYA%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "主动排气系统+电子限滑差速器，0-100km/h加速4.0秒，Jaguar InControl智能系统"
+  },
+  {
+    "id": 26,
+    "brand": "捷豹",
+    "model": "I-PACE EV400",
+    "price": "63.08万起",
+    "type": "电动性能SUV",
+    "power": 400,
+    "torque": 696,
+    "batteryCapacity": 89,
+    "range": 470,
+    "driveType": "双电机四驱",
+    "seats": 5,
+    "length": 4682,
+    "width": 2011,
+    "height": 1565,
+    "wheelbase": 2990,
+    "image": [
+      "https://n.sinaimg.cn/sinakd20120/357/w1268h689/20221130/5010-21605360195f1479e550a97ccc950642.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.Se6bo0IjCkpU4pry48RG7AHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.H9FIwmyNcuA9As7kBi5TiwHaFK?rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "techHighlight": "空气动力学设计（风阻系数0.29Cd），89kWh电池+100kW快充，自适应动态悬架"
+  },
+  {
+    "id": 27,
+    "brand": "柯尼塞格",
+    "model": "Gemera",
+    "price": "约3000万",
+    "type": "四座超级跑车",
+    "horsepower": 1700,
+    "torque": 3500,
+    "displacement": "2.0T 三缸+三电机",
+    "driveType": "全时四驱",
+    "seats": 4,
+    "length": 4975,
+    "width": 2030,
+    "height": 1295,
+    "wheelbase": 3000,
+    "image": [
+      "https://image.bitautoimg.com/appimage-2048-w1/mapi/media/2020/12/08/265bed4600fa440e92f2fa6d77ac075e.jpg",
+      "https://img1.bitauto.com/appimage-630-w1/news/2021/11/27/85b7491cbd12413fa96220a665f14781.jpg",
+      "https://img.pcauto.com.cn/images/wxauto/116852B02E3BDBA9A0ABE385C565AE14/mmbiz_jpg/E4bN0zaUxeVsSG815Bb64rzDPDIDjLyguEibAcSuhicmGaS7ReDkJX67hk2Mf6kOh5fon0VJTJ2YynOSDYic3iadzQ_830x600.jpg"
+    ],
+    "techHighlight": "无凸轮轴发动机+9速多离合器变速箱，0-100km/h加速1.9秒，碳纤维车身"
+  },
+  {
+    "id": 28,
+    "brand": "玛莎拉蒂",
+    "model": "Levante Trofeo",
+    "price": "191.58万",
+    "type": "性能SUV",
+    "horsepower": 590,
+    "torque": 730,
+    "displacement": "3.8T V8",
+    "driveType": "全时四驱",
+    "seats": 5,
+    "length": 5003,
+    "width": 2158,
+    "height": 1695,
+    "wheelbase": 3004,
+    "image": [
+      "https://img1.xcarimg.com/news/26898/28190/20180827082504321626151888782.jpg",
+      "https://img1.xcarimg.com/news/3/36976/37806/846_634_20200812113728106448542031082.jpg",
+      "https://pic1.zhimg.com/v2-0ddab4f9380ef9449f67e41d7b7fd808_r.jpg"
+    ],
+    "techHighlight": "碳纤维引擎盖+主动空气动力学，极速304km/h，玛莎拉蒂Q4智能四驱系统"
+  },
+  {
+    "id": 29,
+    "brand": "玛莎拉蒂",
+    "model": "MC20 Cielo",
+    "price": "329.80万",
+    "type": "敞篷超跑",
+    "horsepower": 630,
+    "torque": 730,
+    "displacement": "3.0T V6 双涡轮",
+    "driveType": "中置后驱",
+    "seats": 2,
+    "length": 4669,
+    "width": 2035,
+    "height": 1221,
+    "wheelbase": 2700,
+    "image": [
+      "https://img1.xcarimg.com/b73/s12854/2000_1500_20210512171037487970259664682.jpg",
+      "https://imagecn.gasgoo.com/moblogo/News/UEditor/image/20250408/6387973112397631321207399.png",
+      "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20230419/8449779_800.jpeg"
+    ],
+    "techHighlight": "碳纤维单体壳+电动折叠硬顶（12秒开合），Nettuno海神发动机，倍耐力P Zero Corsa轮胎"
+  },
+  {
+    "id": 30,
+    "brand": "欧宝",
+    "model": "Mokka-e",
+    "price": "约22万",
+    "type": "电动小型SUV",
+    "power": 136,
+    "torque": 260,
+    "batteryCapacity": 50,
+    "range": 338,
+    "driveType": "前置前驱",
+    "seats": 5,
+    "length": 4151,
+    "width": 1797,
+    "height": 1523,
+    "wheelbase": 2564,
+    "image": [
+      "https://img1.xcarimg.com/PicLib/s/s7768_420.jpg",
+      "https://k.sinaimg.cn/n/sinakd10121/124/w1024h700/20200624/8f7c-ivmqpci5378010.jpg/w700d1q75cms.jpg",
+      "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2009/07/c5/229294935_1599453347145_800x600.jpg"
+    ],
+    "techHighlight": "10英寸双联屏+快充30分钟至80%，欧宝IntelliLux LED矩阵大灯，轻量化车身设计"
+  },
+  {
+    "id": 31,
+    "brand": "帕加尼",
+    "model": "Zonda Cinque Roadster",
+    "price": "约3200万",
+    "type": "限量超跑",
+    "horsepower": 669,
+    "torque": 780,
+    "displacement": "7.3L V12",
+    "driveType": "中置后驱",
+    "seats": 2,
+    "length": 4435,
+    "width": 2055,
+    "height": 1141,
+    "wheelbase": 2730,
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/R-C.645c59af155fa769918ebdb105f24c9d?rik=OeLYUAAOWnBipw&riu=http%3a%2f%2fn.sinaimg.cn%2fsinacn14%2f213%2fw2048h1365%2f20180525%2f5227-haysviy7269549.jpg&ehk=TcpVH8jzSVH5M1IX94YlIbsSXJWAyUUxr15k49JaQxw%3d&risl=&pid=ImgRaw&r=0",
+      "https://www.zancar.com/wp-content/uploads/2016/01/pagani-zonda-cinque-roadster-8.jpg",
+      "https://n.sinaimg.cn/sinakd20123/192/w1024h768/20210707/5853-3b349310235fd0ff7f5376a02f986dea.jpg"
+    ],
+    "techHighlight": "碳钛合金车架，全球限量5台，AMG 7.3L V12发动机，六速手动变速箱"
+  },
+  {
+    "id": 32,
+    "brand": "奇瑞",
+    "model": "风云T9 插混版",
+    "price": "15.59万起",
+    "type": "插电混动SUV",
+    "horsepower": 317,
+    "torque": 545,
+    "displacement": "1.6T 插混",
+    "batteryCapacity": 19.27,
+    "range": 1400,
+    "driveType": "前置前驱",
+    "seats": 5,
+    "length": 4790,
+    "width": 1900,
+    "height": 1680,
+    "wheelbase": 2820,
+    "image": [
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.w8nUcxUeqJF2kpJ3lybGnQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g31/M02/B2/C0/752x0_q100_autohomecar__ChxoHWYBFQ-AaeLIAAClDvFKUGc513.jpg?text/5rG96L2m572R6K-E/fontSize/13",
+      "https://q6.itc.cn/images01/20240521/b6a45ecf889a4bbd84e9e6f48b9461ab.jpeg"
+    ],
+    "techHighlight": "鲲鹏超性能电混C-DM，纯电续航100km，Chery Pilot L2+级智能驾驶"
+  },
+  {
+    "id": 33,
+    "brand": "斯柯达",
+    "model": "柯迪亚克 GT",
+    "price": "19.19万起",
+    "type": "轿跑SUV",
+    "horsepower": 190,
+    "torque": 320,
+    "displacement": "2.0T L4",
+    "driveType": "前置四驱",
+    "seats": 5,
+    "length": 4634,
+    "width": 1883,
+    "height": 1649,
+    "wheelbase": 2791,
+    "image": [
+      "https://static.saicskoda.com.cn/newportal/prod/I/20221118/1091fe00796941f72caf3a283e5f3c1d.jpg",
+      "https://img2.bitautoimg.com/bitauto/2022/01/11/8223ac38-7b7a-47eb-9458-e9a23555d53f.jpg",
+      "https://n.sinaimg.cn/sinakd2020818s/100/w1500h1000/20200818/553a-ixvrvsp5612630.jpg"
+    ],
+    "techHighlight": "溜背造型+智能四驱系统，越野模式可调，斯柯达Digital Cockpit数字座舱"
+  },
+  {
+    "id": 34,
+    "brand": "乌兰",
+    "model": "旅行者",
+    "price": "15.28万起",
+    "type": "硬派SUV",
+    "horsepower": 231,
+    "torque": 380,
+    "displacement": "2.0T L4",
+    "driveType": "分时四驱",
+    "seats": 7,
+    "length": 4900,
+    "width": 2006,
+    "height": 1880,
+    "wheelbase": 2820,
+    "image": [
+      "https://image.bitautoimg.com/appimage-1340-w1/mapi/news/2023/11/24/b1491d61924a4edb803de435454b9f66.jpeg",
+      "https://img2.bitautoimg.com/autoalbum/files/20230417/997/2023041710560174586299712497_3000x2000_w1.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.474dbc1c3ff612b1c22a0346f9dc494c?rik=UME1WRXKfGJSSg&riu=http%3a%2f%2fpic.tuanche.com%2fmaterial%2fresourceimg%2f20230302%2f16777283534946941.jpeg&ehk=IL%2fLamDojzLMz02hwG0hSaEtSxuvgAdEHzgy159OQY8%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "博格华纳四驱+后桥差速锁，接近角28°，全地形轮胎+底盘装甲"
+  },
+  {
+    "id": 35,
+    "brand": "沃尔沃",
+    "model": "S90 Recharge",
+    "price": "57.99万起",
+    "type": "插电混动轿车",
+    "horsepower": 455,
+    "torque": 709,
+    "displacement": "2.0T 插混",
+    "batteryCapacity": 18.8,
+    "range": 1033,
+    "driveType": "全时四驱",
+    "seats": 5,
+    "length": 5090,
+    "width": 1879,
+    "height": 1450,
+    "wheelbase": 3061,
+    "image": [
+      "https://img3.bitautoimg.com/autoalbum/files/20221013/331/20221013972.jpg",
+      "https://img4.bitautoimg.com/autoalbum/files/20220909/39/202209091427_3000x2000_w1.jpg",
+      "https://img1.bitautoimg.com/autoalbum/files/20231113/798/202311132933986137979850518_3000x2000_w1.jpg"
+    ],
+    "techHighlight": "City Safety城市安全系统，纯电续航65km，Nappa真皮座椅+空气悬架"
+  },
+  {
+    "id": 36,
+    "brand": "沃尔沃",
+    "model": "EX90",
+    "price": "89.99万起",
+    "type": "电动中大型SUV",
+    "power": 503,
+    "torque": 910,
+    "batteryCapacity": 111,
+    "range": 650,
+    "driveType": "双电机四驱",
+    "seats": 7,
+    "length": 5037,
+    "width": 1967,
+    "height": 1748,
+    "wheelbase": 3019,
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/R-C.f12921db5bc9f5d556c66c734fd80f01?rik=pXVGZuurFxjmLQ&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd10012%2f600%2fw1920h1080%2f20221120%2f4a9d-f8e51dd65893ad09fad4184216e217d3.jpg&ehk=INJ7ayz5SbVSRQUNhK4UYgkVoFimsalimo6W32LdBPo%3d&risl=&pid=ImgRaw&r=0",
+      "https://ts1.tc.mm.bing.net/th/id/OIP-C.qmsckljF6ZZra4oPU8e1SwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://image.bitautoimg.com/appimage-800-w0/news/2022/10/08/8efcfde9-3166-422c-a7b4-0aa342fcafce.jpg"
+    ],
+    "techHighlight": "激光雷达+DUS驾驶员感知系统，L4级自动驾驶就绪，111kWh电池+250kW快充"
+  },
+  {
+    "id": 37,
+    "brand": "蔚来",
+    "model": "ES6 签名版",
+    "price": "55.80万",
+    "type": "电动中型SUV",
+    "power": 490,
+    "torque": 850,
+    "batteryCapacity": 150,
+    "range": 630,
+    "driveType": "双电机四驱",
+    "seats": 5,
+    "length": 4850,
+    "width": 1965,
+    "height": 1751,
+    "wheelbase": 2900,
+    "image": [
+      "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2208/12/c10/328509279_1660290205410.jpg",
+      "https://ts4.tc.mm.bing.net/th/id/OIP-C.i_n7wS2YLc6mlRxC-NYDdAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://img1.xcarimg.com/b341/s15242/2000_1500_20221006000238533375671407013.jpg"
+    ],
+    "techHighlight": "换电3分钟+NOMI语音助手，智能空气悬架，蔚来Autopilot自动辅助驾驶"
+  },
+  {
+    "id": 38,
+    "brand": "蔚来",
+    "model": "ET5 Touring",
+    "price": "33.98万起",
+    "type": "电动旅行车",
+    "power": 360,
+    "torque": 650,
+    "batteryCapacity": 100,
+    "range": 590,
+    "driveType": "双电机四驱",
+    "seats": 5,
+    "length": 4790,
+    "width": 1915,
+    "height": 1485,
+    "wheelbase": 2890,
+    "image": [
+      "https://img1.xcarimg.com/news/3/40361/40624/846_635_20230615204333475851440189252.jpg",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.7f59301f7183e19d9c29d722c42241f3?rik=GM4osbOSbqwiMw&riu=http%3a%2f%2fs3.xchuxing.com%2fxchuxing%2farticle%2f2023%2f06%2f14%2f0c1ca20230614194649502.jpg&ehk=k2TgzV1bRJSHbOwHpiMZw%2bKNI%2fKBO12I%2fZ75adN4vDA%3d&risl=&pid=ImgRaw&r=0",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.479814ce6fff05a0f5e85655e1ccb568?rik=rNQxAaKi30gKgQ&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fttauto%2f2023%2f06%2f22%2f7246954603093443129%2f8985dc2d70194381ac3e4a537f7e4255.png&ehk=NgzDfKE1dK7xL10%2b%2fPUxPE02pPOTh39qRxjGjSDNn6o%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "全景天幕+电动尾门，后备厢容积450L，蔚来PanoCinema全景数字座舱"
+  },
+  {
+    "id": 39,
+    "brand": "雪佛兰",
+    "model": "Corvette E-Ray",
+    "price": "约135万",
+    "type": "混动超跑",
+    "horsepower": 655,
+    "torque": 800,
+    "displacement": "6.2L V8+电机",
+    "driveType": "前置电机四驱",
+    "seats": 2,
+    "length": 4630,
+    "width": 1933,
+    "height": 1234,
+    "wheelbase": 2723,
+    "image": [
+      "https://ts1.tc.mm.bing.net/th/id/R-C.1ea242c5e580fed48ac78a4d5abfa74d?rik=auIypDQN%2f3ffgA&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20230119ac%2f766%2fw1002h564%2f20230119%2fc21a-f3d9d121558ada4c9b940f701b83bf7b.jpg&ehk=2FPsler%2f74aOd0XOQ6RuWQCrG1N9k2UG6WUPna70JT0%3d&risl=&pid=ImgRaw&r=0",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.e0AfIN_fFpoqnPlh9n3adQHaD4?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts2.tc.mm.bing.net/th/id/OIP-C.Yrom_F4qFuWQ6M4MFhJ0WAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
+    ],
+    "techHighlight": "首次搭载四驱系统，0-100km/h加速2.5秒，电磁悬架+碳陶瓷刹车"
+  },
+  {
+    "id": 40,
+    "brand": "英菲尼迪",
+    "model": "QX50 四驱豪华版",
+    "price": "46.98万",
+    "type": "豪华SUV",
+    "horsepower": 268,
+    "torque": 380,
+    "displacement": "2.0T VC-Turbo",
+    "driveType": "智能四驱",
+    "seats": 5,
+    "length": 4705,
+    "width": 1903,
+    "height": 1681,
+    "wheelbase": 2798,
+    "image": [
+      "https://ts3.tc.mm.bing.net/th/id/OIP-C.ATSet8UVCSCrJ8kl392suQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts4.tc.mm.bing.net/th/id/OIP-C.WvMYbyEXQcvqULflYiJLjAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://ts1.tc.mm.bing.net/th/id/R-C.1571f268959975bbbc81c8eda65fcea5?rik=G6bQcA%2bCuueDtw&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20200417s%2f144%2fw1118h626%2f20200417%2f9b15-iskepxt1323028.jpg&ehk=RCWvmFAef4lIm8b8mvHxqJXF9OxCq1KInM9Asmqv%2bMk%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "techHighlight": "可变压缩比发动机(8:1-14:1)，ProPILOT辅助驾驶，Bose Performance音响"
+  },
+  {
+    "id": 41,
+    "brand": "众泰",
+    "model": "T300 小强版",
+    "price": "5.98万起",
+    "type": "小型SUV",
+    "horsepower": 112,
+    "torque": 143,
+    "displacement": "1.5L L4",
+    "driveType": "前置前驱",
+    "seats": 5,
+    "length": 4405,
+    "width": 1830,
+    "height": 1640,
+    "wheelbase": 2610,
+    "image": [
+      "https://ts4.tc.mm.bing.net/th/id/OIP-C.W5UqjWZnigwIPKG4l4CJxQHaEP?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "https://img.pcauto.com.cn/images/autovideo/autovideo/20178/22/15033737264418720.jpg",
+      "https://youjia-image.cdn.bcebos.com/seriesImage/1623064306813491fff9.png@!w_600_fp"
+    ],
+    "techHighlight": "10.25英寸中控屏，倒车影像标配，轻量化车身+经济油耗（6.5L/100km）"
   }
 ]
