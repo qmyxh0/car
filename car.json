@@ -19,7 +19,30 @@
       "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20230418/15532560989e0c.jpg",
       "https://ts1.tc.mm.bing.net/th/id/R-C.6cca0a3f33deeaba0d6e8ce6f7ec3aea?rik=2gb7vFmRks6x6g&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20201210ac%2f120%2fw1440h1080%2f20201210%2f79bc-keyancx6939017.jpg&ehk=Sf25S9BZXNCq9ivmZRwPveh3bye%2bo6WZWBYMni%2f8Z2E%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "全铝车身+手工定制内饰，6.7T V12发动机带可变气门正时，魔毯空气悬架"
+    "techHighlight": "全铝车身+手工定制内饰，6.7T V12发动机带可变气门正时，魔毯空气悬架",
+    "dealerStores": [
+      {
+        "storeName": "劳斯莱斯北京金宝街展厅",
+        "address": "北京市朝阳区金宝街88号金宝汇购物中心1层",
+        "phone": "010-85678901",
+        "latitude": 39.9142,
+        "longitude": 116.4174
+      },
+      {
+        "storeName": "劳斯莱斯上海外滩体验中心",
+        "address": "上海市黄浦区中山东一路33号外滩源1号楼",
+        "phone": "021-65432109",
+        "latitude": 31.2324,
+        "longitude": 121.4976
+      },
+      {
+        "storeName": "劳斯莱斯广州珠江新城展厅",
+        "address": "广州市天河区珠江新城珠江西路5号广州国际金融中心1层",
+        "phone": "020-33221109",
+        "latitude": 23.1242,
+        "longitude": 113.3206
+      }
+    ]
   },
   {
     "id": 2,
@@ -41,7 +64,30 @@
       "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20230425/135015224f3f21.jpg",
       "https://chaopao-1301250629.cos.ap-guangzhou.myqcloud.com/data/image/20230516/134439462f6869_preview.jpg"
     ],
-    "techHighlight": "全时四驱系统带扭矩矢量分配，自适应空气悬架+车身高度可调，定制星光车顶"
+    "techHighlight": "全时四驱系统带扭矩矢量分配，自适应空气悬架+车身高度可调，定制星光车顶",
+    "dealerStores": [
+      {
+        "storeName": "劳斯莱斯北京顺义展厅",
+        "address": "北京市顺义区首都机场路89号劳斯莱斯体验中心",
+        "phone": "010-84567890",
+        "latitude": 40.0842,
+        "longitude": 116.6174
+      },
+      {
+        "storeName": "劳斯莱斯上海浦东展厅",
+        "address": "上海市浦东新区世纪大道100号环球金融中心1层",
+        "phone": "021-64321098",
+        "latitude": 31.2389,
+        "longitude": 121.5012
+      },
+      {
+        "storeName": "劳斯莱斯深圳湾展厅",
+        "address": "深圳市南山区深圳湾体育中心B1层",
+        "phone": "0755-23456789",
+        "latitude": 22.5342,
+        "longitude": 113.9476
+      }
+    ]
   },
   {
     "id": 3,
@@ -63,7 +109,30 @@
       "https://www.tjbsq.com/uploads/allimg/20201130/11-201130134323.jpg",
       "https://ts1.tc.mm.bing.net/th/id/R-C.c728adccd932964c3b3a2c1e1a2c7946?rik=fwJx%2b%2byP4iCSgQ&riu=http%3a%2f%2fx0.ifengimg.com%2fauto%2fdealer%2f20210823%2f86133_news_1629699672116.jpg&ehk=SBDZqvGdOjrojbtl86cF9DVu7U%2f3f34ymteQpoNI4ac%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "4.0T V8双涡轮发动机+48V轻混，自适应电磁悬架，手工缝制真皮内饰+金属饰板"
+    "techHighlight": "4.0T V8双涡轮发动机+48V轻混，自适应电磁悬架，手工缝制真皮内饰+金属饰板",
+    "dealerStores": [
+      {
+        "storeName": "宾利北京燕莎中心展厅",
+        "address": "北京市朝阳区亮马桥路50号燕莎中心W101",
+        "phone": "010-64789012",
+        "latitude": 39.9423,
+        "longitude": 116.4777
+      },
+      {
+        "storeName": "宾利上海环贸iapm体验店",
+        "address": "上海市徐汇区淮海中路999号环贸iapm商场L1-110",
+        "phone": "021-67890123",
+        "latitude": 31.2091,
+        "longitude": 121.4399
+      },
+      {
+        "storeName": "宾利杭州万象城展厅",
+        "address": "杭州市江干区富春路701号万象城1层",
+        "phone": "0571-89012345",
+        "latitude": 30.2789,
+        "longitude": 120.1457
+      }
+    ]
   },
   {
     "id": 4,
@@ -85,7 +154,30 @@
       "https://image.bitautoimg.com/appimage-630-w1/mapi/media/2020/11/09/7f6e88980acc43d8bca35ac8e6e124b8.jpeg",
       "https://image.bitautoimg.com/appimage-630-w1/mapi/media/2020/11/07/eaf4d16f535c4d859f24b4d42925d989.jpeg"
     ],
-    "techHighlight": "3.9T V8双涡轮发动机+8速双离合变速箱，F1-Trac牵引力控制系统，主动空气动力学套件"
+    "techHighlight": "3.9T V8双涡轮发动机+8速双离合变速箱，F1-Trac牵引力控制系统，主动空气动力学套件",
+    "dealerStores": [
+      {
+        "storeName": "法拉利北京金港赛道体验中心",
+        "address": "北京市朝阳区金盏乡金港汽车公园C区10号",
+        "phone": "010-78901234",
+        "latitude": 39.9888,
+        "longitude": 116.5123
+      },
+      {
+        "storeName": "法拉利上海国际赛车场展厅",
+        "address": "上海市嘉定区伊宁路2000号上海国际赛车场P房区",
+        "phone": "021-89012345",
+        "latitude": 31.2589,
+        "longitude": 121.2812
+      },
+      {
+        "storeName": "法拉利广州天河展厅",
+        "address": "广州市天河区天河路385号太古汇1层",
+        "phone": "020-56789013",
+        "latitude": 23.1346,
+        "longitude": 113.3289
+      }
+    ]
   },
   {
     "id": 5,
@@ -107,7 +199,30 @@
       "https://img1.xcarimg.com/b67/s12722/20201123220030576430153525693.jpg",
       "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g24/M04/77/00/752x0_q100_autohomecar__Chxky2P1mbSAJW5RAAE9N0VAN88127.jpg?text/6ZGr5LuU5pKp6L2m/fontSize/13"
     ],
-    "techHighlight": "5.2L V10自然吸气发动机，碳纤维单体壳车身，赛道级Brembo碳陶瓷刹车"
+    "techHighlight": "5.2L V10自然吸气发动机，碳纤维单体壳车身，赛道级Brembo碳陶瓷刹车",
+    "dealerStores": [
+      {
+        "storeName": "兰博基尼北京侨福芳草地展厅",
+        "address": "北京市朝阳区东大桥路9号侨福芳草地D座L1-10号",
+        "phone": "010-90123456",
+        "latitude": 39.9188,
+        "longitude": 116.4323
+      },
+      {
+        "storeName": "兰博基尼上海国金中心体验店",
+        "address": "上海市浦东新区世纪大道8号国金中心商场L1-18",
+        "phone": "021-12345678",
+        "latitude": 31.2389,
+        "longitude": 121.5012
+      },
+      {
+        "storeName": "兰博基尼成都银泰中心展厅",
+        "address": "成都市锦江区红星路3段1号银泰中心1层",
+        "phone": "028-89012345",
+        "latitude": 30.6543,
+        "longitude": 104.0678
+      }
+    ]
   },
   {
     "id": 6,
@@ -129,7 +244,30 @@
       "https://www.eenzo.com/upload/cars/20230426/20230426215714_73317.jpeg",
       "https://www.eenzo.com/upload/cars/20220519/20220519140003_48012.jpg"
     ],
-    "techHighlight": "3.8T水平对置六缸+8速PDK双离合，保时捷4D-Chassis Control，主动式后轮转向"
+    "techHighlight": "3.8T水平对置六缸+8速PDK双离合，保时捷4D-Chassis Control，主动式后轮转向",
+    "dealerStores": [
+      {
+        "storeName": "保时捷北京金港4S中心",
+        "address": "北京市朝阳区金港汽车公园C区8号",
+        "phone": "010-23456789",
+        "latitude": 39.9842,
+        "longitude": 116.5174
+      },
+      {
+        "storeName": "保时捷上海浦东保时捷中心",
+        "address": "上海市浦东新区东方路1217号陆家嘴金融城东园",
+        "phone": "021-34567890",
+        "latitude": 31.2204,
+        "longitude": 121.4976
+      },
+      {
+        "storeName": "保时捷深圳南山展厅",
+        "address": "深圳市南山区蛇口望海路1177号海上世界广场1层",
+        "phone": "0755-45678901",
+        "latitude": 22.5235,
+        "longitude": 113.9123
+      }
+    ]
   },
   {
     "id": 7,
@@ -152,7 +290,30 @@
       "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2409/04/c42/444510410_1725430766274.jpg",
       "https://www.modiauto.com.cn/auto/images/202301/202301051502131e41727b13b9d.jpeg?image_process=resize,fw_800,fh_600"
     ],
-    "techHighlight": "后置后驱布局+第五代eDrive技术，79.1kWh高容量电池，BMW智能驾驶辅助系统"
+    "techHighlight": "后置后驱布局+第五代eDrive技术，79.1kWh高容量电池，BMW智能驾驶辅助系统",
+    "dealerStores": [
+      {
+        "storeName": "宝马北京燕德宝4S店",
+        "address": "北京市朝阳区东苇路69号",
+        "phone": "010-45678901",
+        "latitude": 39.9942,
+        "longitude": 116.5074
+      },
+      {
+        "storeName": "宝马上海宝诚中环4S店",
+        "address": "上海市普陀区真南路829号",
+        "phone": "021-56789012",
+        "latitude": 31.2404,
+        "longitude": 121.4076
+      },
+      {
+        "storeName": "宝马广州粤宝4S店",
+        "address": "广州市白云区白云大道北1381号",
+        "phone": "020-89012345",
+        "latitude": 23.1592,
+        "longitude": 113.2746
+      }
+    ]
   },
   {
     "id": 8,
@@ -175,7 +336,30 @@
       "https://ts1.tc.mm.bing.net/th/id/R-C.b95fd7f80a2e2ccdc494272f4f942d23?rik=eiC66TuWyufGYA&riu=http%3a%2f%2fs3.xchuxing.com%2fxchuxing%2fcar-attachment%2f2023%2f08%2f26%2f465d0202308260003366574.png&ehk=uLJd4VjlkeiySxXCfIBEcd3UTFLSKQ8hxFwLW7MXhJI%3d&risl=&pid=ImgRaw&r=0",
       "https://ts1.tc.mm.bing.net/th/id/R-C.f0d7b2909216842e95e812de45d65924?rik=l4CYWoNB1aoHzA&riu=http%3a%2f%2fauto.sinaimg.cn%2fautoimg%2fserial%2f06%2f17%2f667000239444b3821706_950.jpg&ehk=Yjn%2bXeAhLweqj8zA5l3Hi7D0tLkLxXS1xk59jBRroM8%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "DM-i超级混动技术，30.7kWh电池纯电续航230km，刀片电池安全防护"
+    "techHighlight": "DM-i超级混动技术，30.7kWh电池纯电续航230km，刀片电池安全防护",
+    "dealerStores": [
+      {
+        "storeName": "比亚迪北京五方桥4S店",
+        "address": "北京市朝阳区王四营乡五方桥西南角五方天雅汽车园A1-101",
+        "phone": "010-67890123",
+        "latitude": 39.8942,
+        "longitude": 116.4574
+      },
+      {
+        "storeName": "比亚迪上海康桥4S店",
+        "address": "上海市浦东新区康桥镇秀浦路3688号",
+        "phone": "021-78901234",
+        "latitude": 31.1704,
+        "longitude": 121.5276
+      },
+      {
+        "storeName": "比亚迪广州龙南4S店",
+        "address": "广州市天河区龙洞街道龙洞东路128号",
+        "phone": "020-90123456",
+        "latitude": 23.1792,
+        "longitude": 113.3346
+      }
+    ]
   },
   {
     "id": 9,
@@ -198,7 +382,30 @@
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.jZbrITTR2EMu5oevDRXlUAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts1.tc.mm.bing.net/th/id/R-C.704c64da17ef3ec0e47a073fcbcf239b?rik=U4UJsb14VguDcQ&riu=http%3a%2f%2fs3.xchuxing.com%2fxchuxing%2fforum%2f201902%2f26%2f214018f4th3izhz0eesptl.jpg&ehk=8LbSQGP7Np%2fZSf85gbn8htPAiX4W8Y%2bR%2f%2fdDPVpdiMM%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "双电机全时四驱+100kWh电池，270kW超快充（10%-80%仅21分钟），保时捷Active Suspension Management"
+    "techHighlight": "双电机全时四驱+100kWh电池，270kW超快充（10%-80%仅21分钟），保时捷Active Suspension Management",
+    "dealerStores": [
+      {
+        "storeName": "保时捷北京亦庄4S中心",
+        "address": "北京市大兴区亦庄经济技术开发区东环北路1号",
+        "phone": "010-56789012",
+        "latitude": 39.8342,
+        "longitude": 116.5974
+      },
+      {
+        "storeName": "保时捷上海虹桥展厅",
+        "address": "上海市闵行区虹桥天地购物中心L1层",
+        "phone": "021-67890123",
+        "latitude": 31.1901,
+        "longitude": 121.4346
+      },
+      {
+        "storeName": "保时捷杭州西湖展厅",
+        "address": "杭州市上城区平海路124号湖滨88商场1层",
+        "phone": "0571-89012345",
+        "latitude": 30.2890,
+        "longitude": 120.1568
+      }
+    ]
   },
   {
     "id": 10,
@@ -221,7 +428,30 @@
       "https://doc-fd.zol-img.com.cn/t_s640x2000/g7/M00/08/06/ChMkK2YunNyILFmrAAeAlbT27T8AAdioABWgHgAB4Ct221.jpg",
       "https://x0.ifengimg.com/ucms/2021_24/DD157AAA5E951476B303884BEA287B7BA7BFF05A_size58_w660_h486.jpg"
     ],
-    "techHighlight": "4.0T V8+永磁同步电机混动系统，兰博基尼ANIMA驾驶模式选择，碳陶瓷刹车系统"
+    "techHighlight": "4.0T V8+永磁同步电机混动系统，兰博基尼ANIMA驾驶模式选择，碳陶瓷刹车系统",
+    "dealerStores": [
+      {
+        "storeName": "兰博基尼北京朝阳展厅",
+        "address": "北京市朝阳区建国路88号现代汽车大厦1层",
+        "phone": "010-84567890",
+        "latitude": 39.9042,
+        "longitude": 116.4074
+      },
+      {
+        "storeName": "兰博基尼上海浦东展厅",
+        "address": "上海市浦东新区张江高科技园区博云路2号",
+        "phone": "021-56789012",
+        "latitude": 31.2304,
+        "longitude": 121.5076
+      },
+      {
+        "storeName": "兰博基尼深圳福田展厅",
+        "address": "深圳市福田区福强路4001号",
+        "phone": "0755-34567890",
+        "latitude": 22.5346,
+        "longitude": 114.0346
+      }
+    ]
   },
   {
     "id": 11,
@@ -244,7 +474,30 @@
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.85N4Dy_IuceDiHMtp3vctQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.P4Jl-bz0F8tTkSA0qKDt2QHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "techHighlight": "e平台3.0技术，44.9kWh刀片电池，DiPilot智能驾驶辅助+全景影像"
+    "techHighlight": "e平台3.0技术，44.9kWh刀片电池，DiPilot智能驾驶辅助+全景影像",
+    "dealerStores": [
+      {
+        "storeName": "比亚迪北京朝阳路4S店",
+        "address": "北京市朝阳区朝阳路69号",
+        "phone": "010-64789012",
+        "latitude": 39.9242,
+        "longitude": 116.5274
+      },
+      {
+        "storeName": "比亚迪上海松江4S店",
+        "address": "上海市松江区茸平路19号",
+        "phone": "021-67890123",
+        "latitude": 31.0904,
+        "longitude": 121.2376
+      },
+      {
+        "storeName": "比亚迪广州番禺4S店",
+        "address": "广州市番禺区钟村街汉溪大道东290号奥园城市天地1层",
+        "phone": "020-90123456",
+        "latitude": 23.0992,
+        "longitude": 113.3346
+      }
+    ]
   },
   {
     "id": 12,
@@ -267,7 +520,30 @@
       "https://n.sinaimg.cn/sinakd20200714ac/600/w1920h1080/20200714/a72c-iwhseiu4094376.jpg",
       "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g25/M02/92/72/752x0_q100_autohomecar__ChxkqWP3Mr2ABeFTAADZFtLTIKM401.png?text/5pyJ54K56L2m5LqL/fontSize/13"
     ],
-    "techHighlight": "后置后驱纯电布局，74kWh电池+智能热管理，BMW Digital Key数字钥匙"
+    "techHighlight": "后置后驱纯电布局，74kWh电池+智能热管理，BMW Digital Key数字钥匙",
+    "dealerStores": [
+      {
+        "storeName": "宝马北京盈之宝4S店",
+        "address": "北京市朝阳区利泽东二路2号",
+        "phone": "010-64789012",
+        "latitude": 39.9923,
+        "longitude": 116.4877
+      },
+      {
+        "storeName": "宝马上海宝信4S店",
+        "address": "上海市闵行区吴中路1786号",
+        "phone": "021-67890123",
+        "latitude": 31.1891,
+        "longitude": 121.4099
+      },
+      {
+        "storeName": "宝马成都中宝4S店",
+        "address": "成都市金牛区金科南路3号",
+        "phone": "028-90123456",
+        "latitude": 30.6789,
+        "longitude": 104.1235
+      }
+    ]
   },
   {
     "id": 13,
@@ -290,7 +566,30 @@
       "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g30/M05/89/4D/752x0_q100_autohomecar__ChxknGRWFhyAG5C7AA3IbbMGQQs080.png?text/562U562U5Lmw6L2m/fontSize/13",
       "https://zhongces3.sina.com.cn/products/201511/63ded55c399ba86f80be6e9395b2112d.jpg"
     ],
-    "techHighlight": "双电机全时四驱+100kWh电池，Tesla Autopilot自动辅助驾驶，17英寸触控屏+车载系统"
+    "techHighlight": "双电机全时四驱+100kWh电池，Tesla Autopilot自动辅助驾驶，17英寸触控屏+车载系统",
+    "dealerStores": [
+      {
+        "storeName": "特斯拉北京华贸体验店",
+        "address": "北京市朝阳区建国路81号华贸中心1层",
+        "phone": "010-78901234",
+        "latitude": 39.9088,
+        "longitude": 116.4123
+      },
+      {
+        "storeName": "特斯拉上海陆家嘴体验店",
+        "address": "上海市浦东新区世纪大道8号国金中心商场L1-23",
+        "phone": "021-89012345",
+        "latitude": 31.2389,
+        "longitude": 121.5012
+      },
+      {
+        "storeName": "特斯拉广州天环体验店",
+        "address": "广州市天河区天河路218号天环广场L120",
+        "phone": "020-56789013",
+        "latitude": 23.1346,
+        "longitude": 113.3289
+      }
+    ]
   },
   {
     "id": 14,
@@ -312,7 +611,30 @@
       "https://img1.xcarimg.com/b81/s12879/20201121152103284432133482496.jpg",
       "https://www.eenzo.com/upload/cars/20221031/20221031153211_19482.jpg"
     ],
-    "techHighlight": "48V轻混系统+自适应电磁悬挂，风阻系数0.31Cd，手工打造真皮内饰"
+    "techHighlight": "48V轻混系统+自适应电磁悬挂，风阻系数0.31Cd，手工打造真皮内饰",
+    "dealerStores": [
+      {
+        "storeName": "阿斯顿·马丁北京侨福芳草地展厅",
+        "address": "北京市朝阳区东大桥路9号侨福芳草地D座L1-12号",
+        "phone": "010-90123456",
+        "latitude": 39.9188,
+        "longitude": 116.4323
+      },
+      {
+        "storeName": "阿斯顿·马丁上海环贸iapm展厅",
+        "address": "上海市徐汇区淮海中路999号环贸iapm商场L1-108",
+        "phone": "021-12345678",
+        "latitude": 31.2089,
+        "longitude": 121.4312
+      },
+      {
+        "storeName": "阿斯顿·马丁广州天环广场展厅",
+        "address": "广州市天河区天河路218号天环广场L103号",
+        "phone": "020-67890123",
+        "latitude": 23.1346,
+        "longitude": 113.3289
+      }
+    ]
   },
   {
     "id": 15,
@@ -334,7 +656,30 @@
       "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g28/M09/7B/E5/752x0_q100_autohomecar__ChxkmmR1vICANzEYAASCzBdmjWA084.png?text/5paw6L2m6L-3572R/fontSize/13",
       "https://p1.itc.cn/images01/20230530/c8da0a544a6d49498025e6f2fc361175.jpeg"
     ],
-    "techHighlight": "赛道级空力套件，7速手动变速箱可选，阿斯顿·马丁动态稳定控制系统"
+    "techHighlight": "赛道级空力套件，7速手动变速箱可选，阿斯顿·马丁动态稳定控制系统",
+    "dealerStores": [
+      {
+        "storeName": "阿斯顿·马丁北京金港赛道展厅",
+        "address": "北京市朝阳区金盏乡金港汽车公园C区15号",
+        "phone": "010-87654321",
+        "latitude": 39.9876,
+        "longitude": 116.5145
+      },
+      {
+        "storeName": "阿斯顿·马丁上海国际赛车场展厅",
+        "address": "上海市嘉定区伊宁路2000号上海国际赛车场P房区",
+        "phone": "021-98765432",
+        "latitude": 31.2578,
+        "longitude": 121.2834
+      },
+      {
+        "storeName": "阿斯顿·马丁深圳湾展厅",
+        "address": "深圳市南山区深圳湾体育中心B1层",
+        "phone": "0755-87654321",
+        "latitude": 22.5367,
+        "longitude": 113.9456
+      }
+    ]
   },
   {
     "id": 16,
@@ -356,7 +701,30 @@
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.rQH7Leq7Qcxg9px4WppCzAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://n.sinaimg.cn/sinakd10107/600/w1920h1080/20230626/7f14-df55e50e41ef48ff8a4b33138f7717be.jpg"
     ],
-    "techHighlight": "42扬声器AKG音响+空气悬架，towing capacity 8100磅，Super Cruise超级辅助驾驶"
+    "techHighlight": "42扬声器AKG音响+空气悬架，towing capacity 8100磅，Super Cruise超级辅助驾驶",
+    "dealerStores": [
+      {
+        "storeName": "凯迪拉克北京达世行华威4S店",
+        "address": "北京市朝阳区百子湾路18号",
+        "phone": "010-23456789",
+        "latitude": 39.8942,
+        "longitude": 116.4674
+      },
+      {
+        "storeName": "凯迪拉克上海安吉名轩4S店",
+        "address": "上海市闵行区吴中路1389号",
+        "phone": "021-34567890",
+        "latitude": 31.1804,
+        "longitude": 121.4076
+      },
+      {
+        "storeName": "凯迪拉克广州美凯4S店",
+        "address": "广州市番禺区迎宾路179号",
+        "phone": "020-78901234",
+        "latitude": 23.0792,
+        "longitude": 113.3746
+      }
+    ]
   },
   {
     "id": 17,
@@ -379,7 +747,30 @@
       "https://ts1.tc.mm.bing.net/th/id/R-C.4459b23dbf9f89242ef42e25fecea8ca?rik=mlkJZKjjJZXTGQ&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fttauto%2f2022%2f11%2f15%2f7165873025785807393%2fafa623ee94f54608a86b4377b5fa1ac7.png&ehk=rz6v4StMl5qUHwa7qfznABTF%2bqjWnq6OOzURqd6uP08%3d&risl=&pid=ImgRaw&r=0",
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.VUry6xHP40T2ezE2ABVzjAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "techHighlight": "33英寸环幕屏+Super Cruise超级辅助驾驶，95.7kWh电池+190kW快充"
+    "techHighlight": "33英寸环幕屏+Super Cruise超级辅助驾驶，95.7kWh电池+190kW快充",
+    "dealerStores": [
+      {
+        "storeName": "凯迪拉克北京姚家园4S店",
+        "address": "北京市朝阳区姚家园路甲1号东方基业汽车城J区18号",
+        "phone": "010-56789012",
+        "latitude": 39.9342,
+        "longitude": 116.5174
+      },
+      {
+        "storeName": "凯迪拉克上海浦东4S店",
+        "address": "上海市浦东新区沪南公路3251号",
+        "phone": "021-67890123",
+        "latitude": 31.1204,
+        "longitude": 121.5476
+      },
+      {
+        "storeName": "凯迪拉克成都蓉孚4S店",
+        "address": "成都市武侯区武科东二路18号",
+        "phone": "028-89012345",
+        "latitude": 30.6543,
+        "longitude": 104.0568
+      }
+    ]
   },
   {
     "id": 18,
@@ -402,7 +793,30 @@
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.mZ8zTJ3h5K2Xc8hVm7AobwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts4.tc.mm.bing.net/th/id/OIP-C.r3Ll16VEn5SrVZKr6atCEAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "techHighlight": "800V架构+两速变速箱，0-96km/h加速3.3秒，复古肌肉车造型+主动声浪模拟"
+    "techHighlight": "800V架构+两速变速箱，0-96km/h加速3.3秒，复古肌肉车造型+主动声浪模拟",
+    "dealerStores": [
+      {
+        "storeName": "道奇北京极速道奇4S店",
+        "address": "北京市朝阳区金蝉西路甲1号酷车小镇C-03",
+        "phone": "010-45678901",
+        "latitude": 39.8842,
+        "longitude": 116.4774
+      },
+      {
+        "storeName": "道奇上海翼之扬4S店",
+        "address": "上海市宝山区江杨南路1388号",
+        "phone": "021-56789012",
+        "latitude": 31.2604,
+        "longitude": 121.4176
+      },
+      {
+        "storeName": "道奇广州华南道奇4S店",
+        "address": "广州市天河区大观南路56号",
+        "phone": "020-89012345",
+        "latitude": 23.1392,
+        "longitude": 113.3946
+      }
+    ]
   },
   {
     "id": 19,
@@ -424,7 +838,30 @@
       "https://p0.ssl.img.360kuai.com/t0142ed854f37c593ee.jpg",
       "https://ts1.tc.mm.bing.net/th/id/R-C.b4f3a796ca90a82d912a7d15cf58042b?rik=VAg0Wqu%2foxNRjQ&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fupload%2fupc%2ftx%2fauto5%2f2012%2f16%2fc1%2f245733536_1608089910517.jpg&ehk=1DKmhQ6B%2bC0%2fEvmvh310O7gMa3JT9KG6TdcMSPjnRPQ%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "三排座椅+Brembo六活塞卡钳，towing capacity 8700磅，SRT Performance Pages性能监测"
+    "techHighlight": "三排座椅+Brembo六活塞卡钳，towing capacity 8700磅，SRT Performance Pages性能监测",
+    "dealerStores": [
+      {
+        "storeName": "道奇北京金港4S店",
+        "address": "北京市朝阳区金盏乡金港汽车公园C区12号",
+        "phone": "010-78901234",
+        "latitude": 39.9867,
+        "longitude": 116.5189
+      },
+      {
+        "storeName": "道奇上海浦东4S店",
+        "address": "上海市浦东新区张江高科技园区博云路2号",
+        "phone": "021-89012345",
+        "latitude": 31.2304,
+        "longitude": 121.5076
+      },
+      {
+        "storeName": "道奇深圳南山4S店",
+        "address": "深圳市南山区科技园科苑路15号",
+        "phone": "0755-23456789",
+        "latitude": 22.5432,
+        "longitude": 113.9568
+      }
+    ]
   },
   {
     "id": 20,
@@ -447,7 +884,30 @@
       "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2405/06/c0/421480292_1714959046085.jpg",
       "https://img1.xcarimg.com/b385/s14182/2000_1500_20220929201606900221106516733.jpg"
     ],
-    "techHighlight": "无框车门+自适应电动尾翼，0-100km/h加速4.3秒，ORA-PILOT 3.0智能驾驶"
+    "techHighlight": "无框车门+自适应电动尾翼，0-100km/h加速4.3秒，ORA-PILOT 3.0智能驾驶",
+    "dealerStores": [
+      {
+        "storeName": "欧拉北京来广营体验店",
+        "address": "北京市朝阳区来广营北路甲8号",
+        "phone": "010-67890123",
+        "latitude": 39.9842,
+        "longitude": 116.4874
+      },
+      {
+        "storeName": "欧拉上海松江体验店",
+        "address": "上海市松江区茸平路19号",
+        "phone": "021-78901234",
+        "latitude": 31.0904,
+        "longitude": 121.2376
+      },
+      {
+        "storeName": "欧拉广州番禺体验店",
+        "address": "广州市番禺区钟村街汉溪大道东290号奥园城市天地1层",
+        "phone": "020-90123456",
+        "latitude": 23.0992,
+        "longitude": 113.3346
+      }
+    ]
   },
   {
     "id": 21,
@@ -470,12 +930,35 @@
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.-4lnHE55RIABe4uNvqMOTQHaE1?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://www.modiauto.com.cn/auto/images/202311/20231121170919bde021abd4911.jpg?image_process=resize,fw_800,fh_600"
     ],
-    "techHighlight": "女性模式+暖男模式，复古造型设计，59.1kWh电池+快充（30%-80%30分钟）"
+    "techHighlight": "女性模式+暖男模式，复古造型设计，59.1kWh电池+快充（30%-80%30分钟）",
+    "dealerStores": [
+      {
+        "storeName": "欧拉北京朝阳大悦城体验店",
+        "address": "北京市朝阳区朝阳北路101号朝阳大悦城1层",
+        "phone": "010-84567890",
+        "latitude": 39.9242,
+        "longitude": 116.5474
+      },
+      {
+        "storeName": "欧拉上海陆家嘴正大广场体验店",
+        "address": "上海市浦东新区陆家嘴西路168号正大广场1层",
+        "phone": "021-56789012",
+        "latitude": 31.2304,
+        "longitude": 121.4976
+      },
+      {
+        "storeName": "欧拉广州天河城体验店",
+        "address": "广州市天河区天河路208号天河城1层",
+        "phone": "020-34567891",
+        "latitude": 23.1292,
+        "longitude": 113.3246
+      }
+    ]
   },
-  {
+    {
     "id": 22,
     "brand": "广汽传祺",
-    "model": "M8宗师版",
+    "model": "M8 宗师版",
     "price": "26.98万起",
     "type": "豪华MPV",
     "horsepower": 252,
@@ -492,7 +975,30 @@
       "https://img2.bitautoimg.com/autoalbum/files/20220817/987/202208172121071361698754789_9918153_6.jpg",
       "https://img2.bitautoimg.com/autoalbum/files/20220826/456/202208261123144542745649104_9949085_22.jpg"
     ],
-    "techHighlight": "双12.3英寸联屏+后排娱乐屏，综合续航1030km，第二排航空座椅带按摩/加热"
+    "techHighlight": "双12.3英寸联屏+后排娱乐屏，综合续航1030km，第二排航空座椅带按摩/加热",
+    "dealerStores": [
+      {
+        "storeName": "广汽传祺北京长京行4S店",
+        "address": "北京市朝阳区姚家园路甲1号东方基业汽车城J区18号",
+        "phone": "010-23456789",
+        "latitude": 39.9342,
+        "longitude": 116.5174
+      },
+      {
+        "storeName": "广汽传祺上海长昊4S店",
+        "address": "上海市闵行区沪青平公路955号",
+        "phone": "021-34567890",
+        "latitude": 31.1804,
+        "longitude": 121.3876
+      },
+      {
+        "storeName": "广汽传祺广州长佳4S店",
+        "address": "广州市天河区广汕二路231号",
+        "phone": "020-78901234",
+        "latitude": 23.1492,
+        "longitude": 113.3946
+      }
+    ]
   },
   {
     "id": 23,
@@ -514,7 +1020,30 @@
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.dj0TzkBQnBpy3PITcjGpOQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.pFbQRF9K2aFB2hdU8AlbOQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "techHighlight": "可变声浪排气+运动外观套件，0-100km/h加速5.7秒，传祺ADiGO智能驾驶辅助"
+    "techHighlight": "可变声浪排气+运动外观套件，0-100km/h加速5.7秒，传祺ADiGO智能驾驶辅助",
+    "dealerStores": [
+      {
+        "storeName": "广汽传祺北京朝阳4S店",
+        "address": "北京市朝阳区建国路88号现代汽车大厦1层",
+        "phone": "010-67890123",
+        "latitude": 39.9042,
+        "longitude": 116.4074
+      },
+      {
+        "storeName": "广汽传祺上海浦东4S店",
+        "address": "上海市浦东新区张江高科技园区博云路2号",
+        "phone": "021-56789012",
+        "latitude": 31.2304,
+        "longitude": 121.5076
+      },
+      {
+        "storeName": "广汽传祺深圳南山4S店",
+        "address": "深圳市南山区科技园科苑路15号",
+        "phone": "0755-23456789",
+        "latitude": 22.5432,
+        "longitude": 113.9568
+      }
+    ]
   },
   {
     "id": 24,
@@ -536,7 +1065,30 @@
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.blENQyi8_Uu40mRVAp_DqQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.Q97I1puOdyDw9qw8vY1u3wHaF_?rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "techHighlight": "三把差速锁+非承载式车身，涉水深度800mm，全地形轮胎+底盘护板"
+    "techHighlight": "三把差速锁+非承载式车身，涉水深度800mm，全地形轮胎+底盘护板",
+    "dealerStores": [
+      {
+        "storeName": "英力士北京越野公园体验中心",
+        "address": "北京市昌平区崔村镇香堂文化新村南环路88号",
+        "phone": "010-45678901",
+        "latitude": 40.1242,
+        "longitude": 116.2874
+      },
+      {
+        "storeName": "英力士上海佘山越野基地体验中心",
+        "address": "上海市松江区佘山镇佘北公路1888号",
+        "phone": "021-56789012",
+        "latitude": 31.0804,
+        "longitude": 121.1576
+      },
+      {
+        "storeName": "英力士广州南沙越野公园体验中心",
+        "address": "广州市南沙区万顷沙镇新垦大道1号",
+        "phone": "020-89012345",
+        "latitude": 22.7792,
+        "longitude": 113.5346
+      }
+    ]
   },
   {
     "id": 25,
@@ -558,7 +1110,30 @@
       "https://img1.xcarimg.com/news/3/36976/37807/846_475_20201202110429109981327401152.jpg",
       "https://ts1.tc.mm.bing.net/th/id/R-C.8e15aebbbf1bda0b8b1d24d84c0dc896?rik=Ib3MIzKUd6rHwA&riu=http%3a%2f%2fwww2.autoimg.cn%2fchejiahaodfs%2fg1%2fM02%2f00%2fFC%2fautohomecar__ChsEmV_HBduAMs6sAAKLytDkcvA057.jpg&ehk=8sBFBr6GwcM9KiMsGa9BeHpoGe2AUfdSqr7JL2mLYYA%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "主动排气系统+电子限滑差速器，0-100km/h加速4.0秒，Jaguar InControl智能系统"
+    "techHighlight": "主动排气系统+电子限滑差速器，0-100km/h加速4.0秒，Jaguar InControl智能系统",
+    "dealerStores": [
+      {
+        "storeName": "捷豹路虎北京运通兴捷4S店",
+        "address": "北京市大兴区西红门镇中鼎路23号",
+        "phone": "010-67890123",
+        "latitude": 39.7742,
+        "longitude": 116.3274
+      },
+      {
+        "storeName": "捷豹路虎上海天华4S店",
+        "address": "上海市浦东新区沪南公路3251号",
+        "phone": "021-78901234",
+        "latitude": 31.1204,
+        "longitude": 121.5476
+      },
+      {
+        "storeName": "捷豹路虎广州鸿粤锐虎4S店",
+        "address": "广州市番禺区南村镇兴南大道368号",
+        "phone": "020-90123456",
+        "latitude": 23.0692,
+        "longitude": 113.3746
+      }
+    ]
   },
   {
     "id": 26,
@@ -581,7 +1156,30 @@
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.Se6bo0IjCkpU4pry48RG7AHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.H9FIwmyNcuA9As7kBi5TiwHaFK?rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "techHighlight": "空气动力学设计（风阻系数0.29Cd），89kWh电池+100kW快充，自适应动态悬架"
+    "techHighlight": "空气动力学设计（风阻系数0.29Cd），89kWh电池+100kW快充，自适应动态悬架",
+    "dealerStores": [
+      {
+        "storeName": "捷豹北京朝阳4S店",
+        "address": "北京市朝阳区东苇路69号",
+        "phone": "010-45678901",
+        "latitude": 39.9942,
+        "longitude": 116.5074
+      },
+      {
+        "storeName": "捷豹上海普陀4S店",
+        "address": "上海市普陀区真南路829号",
+        "phone": "021-56789012",
+        "latitude": 31.2404,
+        "longitude": 121.4076
+      },
+      {
+        "storeName": "捷豹成都金牛4S店",
+        "address": "成都市金牛区金科南路3号",
+        "phone": "028-89012345",
+        "latitude": 30.6789,
+        "longitude": 104.1235
+      }
+    ]
   },
   {
     "id": 27,
@@ -603,7 +1201,30 @@
       "https://img1.bitauto.com/appimage-630-w1/news/2021/11/27/85b7491cbd12413fa96220a665f14781.jpg",
       "https://img.pcauto.com.cn/images/wxauto/116852B02E3BDBA9A0ABE385C565AE14/mmbiz_jpg/E4bN0zaUxeVsSG815Bb64rzDPDIDjLyguEibAcSuhicmGaS7ReDkJX67hk2Mf6kOh5fon0VJTJ2YynOSDYic3iadzQ_830x600.jpg"
     ],
-    "techHighlight": "无凸轮轴发动机+9速多离合器变速箱，0-100km/h加速1.9秒，碳纤维车身"
+    "techHighlight": "无凸轮轴发动机+9速多离合器变速箱，0-100km/h加速1.9秒，碳纤维车身",
+    "dealerStores": [
+      {
+        "storeName": "柯尼塞格北京SKP展厅",
+        "address": "北京市朝阳区建国路87号北京SKP商场1层",
+        "phone": "010-23456789",
+        "latitude": 39.9042,
+        "longitude": 116.4174
+      },
+      {
+        "storeName": "柯尼塞格上海国金中心展厅",
+        "address": "上海市浦东新区世纪大道8号国金中心商场L1-22",
+        "phone": "021-34567890",
+        "latitude": 31.2304,
+        "longitude": 121.5076
+      },
+      {
+        "storeName": "柯尼塞格广州太古汇展厅",
+        "address": "广州市天河区天河路383号太古汇商场L1层125号",
+        "phone": "020-78901234",
+        "latitude": 23.1442,
+        "longitude": 113.3246
+      }
+    ]
   },
   {
     "id": 28,
@@ -625,7 +1246,30 @@
       "https://img1.xcarimg.com/news/3/36976/37806/846_634_20200812113728106448542031082.jpg",
       "https://pic1.zhimg.com/v2-0ddab4f9380ef9449f67e41d7b7fd808_r.jpg"
     ],
-    "techHighlight": "碳纤维引擎盖+主动空气动力学，极速304km/h，玛莎拉蒂Q4智能四驱系统"
+    "techHighlight": "碳纤维引擎盖+主动空气动力学，极速304km/h，玛莎拉蒂Q4智能四驱系统",
+    "dealerStores": [
+      {
+        "storeName": "玛莎拉蒂北京骏东金港4S中心",
+        "address": "北京市朝阳区金盏乡金港汽车公园C区12号",
+        "phone": "010-45678901",
+        "latitude": 39.9842,
+        "longitude": 116.5174
+      },
+      {
+        "storeName": "玛莎拉蒂上海意特4S中心",
+        "address": "上海市闵行区吴中路1588号",
+        "phone": "021-56789012",
+        "latitude": 31.1804,
+        "longitude": 121.4076
+      },
+      {
+        "storeName": "玛莎拉蒂广州骏佳4S中心",
+        "address": "广州市天河区黄埔大道西668号马会家居1楼",
+        "phone": "020-89012345",
+        "latitude": 23.1292,
+        "longitude": 113.3246
+      }
+    ]
   },
   {
     "id": 29,
@@ -647,7 +1291,30 @@
       "https://imagecn.gasgoo.com/moblogo/News/UEditor/image/20250408/6387973112397631321207399.png",
       "https://img4.pcauto.com.cn/pcauto/images/auto_cms/20230419/8449779_800.jpeg"
     ],
-    "techHighlight": "碳纤维单体壳+电动折叠硬顶（12秒开合），Nettuno海神发动机，倍耐力P Zero Corsa轮胎"
+    "techHighlight": "碳纤维单体壳+电动折叠硬顶（12秒开合），Nettuno海神发动机，倍耐力P Zero Corsa轮胎",
+    "dealerStores": [
+      {
+        "storeName": "玛莎拉蒂北京金宝街展厅",
+        "address": "北京市朝阳区金宝街88号金宝汇购物中心1层",
+        "phone": "010-85678901",
+        "latitude": 39.9142,
+        "longitude": 116.4174
+      },
+      {
+        "storeName": "玛莎拉蒂上海外滩体验中心",
+        "address": "上海市黄浦区中山东一路33号外滩源1号楼",
+        "phone": "021-65432109",
+        "latitude": 31.2324,
+        "longitude": 121.4976
+      },
+      {
+        "storeName": "玛莎拉蒂深圳湾展厅",
+        "address": "深圳市南山区深圳湾体育中心B1层",
+        "phone": "0755-23456789",
+        "latitude": 22.5342,
+        "longitude": 113.9476
+      }
+    ]
   },
   {
     "id": 30,
@@ -670,7 +1337,30 @@
       "https://k.sinaimg.cn/n/sinakd10121/124/w1024h700/20200624/8f7c-ivmqpci5378010.jpg/w700d1q75cms.jpg",
       "https://img.pcauto.com.cn/images/upload/upc/tx/auto5/2009/07/c5/229294935_1599453347145_800x600.jpg"
     ],
-    "techHighlight": "10英寸双联屏+快充30分钟至80%，欧宝IntelliLux LED矩阵大灯，轻量化车身设计"
+    "techHighlight": "10英寸双联屏+快充30分钟至80%，欧宝IntelliLux LED矩阵大灯，轻量化车身设计",
+    "dealerStores": [
+      {
+        "storeName": "欧宝北京欧德宝4S店",
+        "address": "北京市昌平区回龙观欧德宝国际汽车城A区10号",
+        "phone": "010-67890123",
+        "latitude": 40.0342,
+        "longitude": 116.2774
+      },
+      {
+        "storeName": "欧宝上海永达4S店",
+        "address": "上海市浦东新区龙东大道2711号",
+        "phone": "021-78901234",
+        "latitude": 31.2104,
+        "longitude": 121.5176
+      },
+      {
+        "storeName": "欧宝广州广物君豪4S店",
+        "address": "广州市白云区机场路888号",
+        "phone": "020-90123456",
+        "latitude": 23.1592,
+        "longitude": 113.2746
+      }
+    ]
   },
   {
     "id": 31,
@@ -692,7 +1382,30 @@
       "https://www.zancar.com/wp-content/uploads/2016/01/pagani-zonda-cinque-roadster-8.jpg",
       "https://n.sinaimg.cn/sinakd20123/192/w1024h768/20210707/5853-3b349310235fd0ff7f5376a02f986dea.jpg"
     ],
-    "techHighlight": "碳钛合金车架，全球限量5台，AMG 7.3L V12发动机，六速手动变速箱"
+    "techHighlight": "碳钛合金车架，全球限量5台，AMG 7.3L V12发动机，六速手动变速箱",
+    "dealerStores": [
+      {
+        "storeName": "帕加尼北京金宝街展厅",
+        "address": "北京市朝阳区金宝街99号丽晶酒店首层",
+        "phone": "010-23456789",
+        "latitude": 39.9142,
+        "longitude": 116.4174
+      },
+      {
+        "storeName": "帕加尼上海外滩源展厅",
+        "address": "上海市黄浦区中山东一路33号外滩源3号楼",
+        "phone": "021-34567890",
+        "latitude": 31.2304,
+        "longitude": 121.4976
+      },
+      {
+        "storeName": "帕加尼广州珠江新城展厅",
+        "address": "广州市天河区珠江新城华夏路10号富力中心1层",
+        "phone": "020-78901234",
+        "latitude": 23.1242,
+        "longitude": 113.3206
+      }
+    ]
   },
   {
     "id": 32,
@@ -716,7 +1429,30 @@
       "https://twm.autohome.com.cn/cjh.autoimg.cn/chejiahaodfs/g31/M02/B2/C0/752x0_q100_autohomecar__ChxoHWYBFQ-AaeLIAAClDvFKUGc513.jpg?text/5rG96L2m572R6K-E/fontSize/13",
       "https://q6.itc.cn/images01/20240521/b6a45ecf889a4bbd84e9e6f48b9461ab.jpeg"
     ],
-    "techHighlight": "鲲鹏超性能电混C-DM，纯电续航100km，Chery Pilot L2+级智能驾驶"
+    "techHighlight": "鲲鹏超性能电混C-DM，纯电续航100km，Chery Pilot L2+级智能驾驶",
+    "dealerStores": [
+      {
+        "storeName": "奇瑞北京诚信达4S店",
+        "address": "北京市丰台区南四环西路123号",
+        "phone": "010-45678901",
+        "latitude": 39.8742,
+        "longitude": 116.3774
+      },
+      {
+        "storeName": "奇瑞上海冠松4S店",
+        "address": "上海市浦东新区沪南路2525号",
+        "phone": "021-56789012",
+        "latitude": 31.1504,
+        "longitude": 121.5276
+      },
+      {
+        "storeName": "奇瑞广州保瑞4S店",
+        "address": "广州市白云区白云大道北1381号",
+        "phone": "020-89012345",
+        "latitude": 23.1592,
+        "longitude": 113.2746
+      }
+    ]
   },
   {
     "id": 33,
@@ -738,7 +1474,30 @@
       "https://img2.bitautoimg.com/bitauto/2022/01/11/8223ac38-7b7a-47eb-9458-e9a23555d53f.jpg",
       "https://n.sinaimg.cn/sinakd2020818s/100/w1500h1000/20200818/553a-ixvrvsp5612630.jpg"
     ],
-    "techHighlight": "溜背造型+智能四驱系统，越野模式可调，斯柯达Digital Cockpit数字座舱"
+    "techHighlight": "溜背造型+智能四驱系统，越野模式可调，斯柯达Digital Cockpit数字座舱",
+    "dealerStores": [
+      {
+        "storeName": "斯柯达北京页川斯达4S店",
+        "address": "北京市海淀区安宁庄东路15号",
+        "phone": "010-67890123",
+        "latitude": 39.9842,
+        "longitude": 116.3674
+      },
+      {
+        "storeName": "斯柯达上海交运起申4S店",
+        "address": "上海市普陀区真南路589号",
+        "phone": "021-78901234",
+        "latitude": 31.2404,
+        "longitude": 121.4076
+      },
+      {
+        "storeName": "斯柯达广州璟众4S店",
+        "address": "广州市天河区广汕二路231号",
+        "phone": "020-90123456",
+        "latitude": 23.1492,
+        "longitude": 113.3946
+      }
+    ]
   },
   {
     "id": 34,
@@ -760,7 +1519,30 @@
       "https://img2.bitautoimg.com/autoalbum/files/20230417/997/2023041710560174586299712497_3000x2000_w1.jpg",
       "https://ts1.tc.mm.bing.net/th/id/R-C.474dbc1c3ff612b1c22a0346f9dc494c?rik=UME1WRXKfGJSSg&riu=http%3a%2f%2fpic.tuanche.com%2fmaterial%2fresourceimg%2f20230302%2f16777283534946941.jpeg&ehk=IL%2fLamDojzLMz02hwG0hSaEtSxuvgAdEHzgy159OQY8%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "博格华纳四驱+后桥差速锁，接近角28°，全地形轮胎+底盘装甲"
+    "techHighlight": "博格华纳四驱+后桥差速锁，接近角28°，全地形轮胎+底盘装甲",
+    "dealerStores": [
+      {
+        "storeName": "乌兰北京越野世家体验中心",
+        "address": "北京市朝阳区来广营北路甲8号",
+        "phone": "010-23456789",
+        "latitude": 39.9842,
+        "longitude": 116.4874
+      },
+      {
+        "storeName": "乌兰上海越野公园体验中心",
+        "address": "上海市青浦区朱家角镇朱枫公路6888号",
+        "phone": "021-34567890",
+        "latitude": 31.0504,
+        "longitude": 121.0776
+      },
+      {
+        "storeName": "乌兰广州花都越野基地体验中心",
+        "address": "广州市花都区狮岭镇芙蓉大道99号",
+        "phone": "020-78901234",
+        "latitude": 23.3892,
+        "longitude": 113.1746
+      }
+    ]
   },
   {
     "id": 35,
@@ -784,7 +1566,30 @@
       "https://img4.bitautoimg.com/autoalbum/files/20220909/39/202209091427_3000x2000_w1.jpg",
       "https://img1.bitautoimg.com/autoalbum/files/20231113/798/202311132933986137979850518_3000x2000_w1.jpg"
     ],
-    "techHighlight": "City Safety城市安全系统，纯电续航65km，Nappa真皮座椅+空气悬架"
+    "techHighlight": "City Safety城市安全系统，纯电续航65km，Nappa真皮座椅+空气悬架",
+    "dealerStores": [
+      {
+        "storeName": "沃尔沃北京中汽南方4S店",
+        "address": "北京市朝阳区来广营西路88号",
+        "phone": "010-45678901",
+        "latitude": 39.9842,
+        "longitude": 116.4874
+      },
+      {
+        "storeName": "沃尔沃上海永达4S店",
+        "address": "上海市浦东新区龙东大道2711号",
+        "phone": "021-56789012",
+        "latitude": 31.2104,
+        "longitude": 121.5176
+      },
+      {
+        "storeName": "沃尔沃广州世祥4S店",
+        "address": "广州市天河区黄埔大道西668号马会家居1楼",
+        "phone": "020-89012345",
+        "latitude": 23.1292,
+        "longitude": 113.3246
+      }
+    ]
   },
   {
     "id": 36,
@@ -807,7 +1612,30 @@
       "https://ts1.tc.mm.bing.net/th/id/OIP-C.qmsckljF6ZZra4oPU8e1SwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://image.bitautoimg.com/appimage-800-w0/news/2022/10/08/8efcfde9-3166-422c-a7b4-0aa342fcafce.jpg"
     ],
-    "techHighlight": "激光雷达+DUS驾驶员感知系统，L4级自动驾驶就绪，111kWh电池+250kW快充"
+    "techHighlight": "激光雷达+DUS驾驶员感知系统，L4级自动驾驶就绪，111kWh电池+250kW快充",
+    "dealerStores": [
+      {
+        "storeName": "沃尔沃北京朝阳4S店",
+        "address": "北京市朝阳区东苇路69号",
+        "phone": "010-67890123",
+        "latitude": 39.9942,
+        "longitude": 116.5074
+      },
+      {
+        "storeName": "沃尔沃上海普陀4S店",
+        "address": "上海市普陀区真南路829号",
+        "phone": "021-78901234",
+        "latitude": 31.2404,
+        "longitude": 121.4076
+      },
+      {
+        "storeName": "沃尔沃成都金牛4S店",
+        "address": "成都市金牛区金科南路3号",
+        "phone": "028-90123456",
+        "latitude": 30.6789,
+        "longitude": 104.1235
+      }
+    ]
   },
   {
     "id": 37,
@@ -830,7 +1658,30 @@
       "https://ts4.tc.mm.bing.net/th/id/OIP-C.i_n7wS2YLc6mlRxC-NYDdAHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://img1.xcarimg.com/b341/s15242/2000_1500_20221006000238533375671407013.jpg"
     ],
-    "techHighlight": "换电3分钟+NOMI语音助手，智能空气悬架，蔚来Autopilot自动辅助驾驶"
+    "techHighlight": "换电3分钟+NOMI语音助手，智能空气悬架，蔚来Autopilot自动辅助驾驶",
+    "dealerStores": [
+      {
+        "storeName": "蔚来中心｜北京东方广场",
+        "address": "北京市东城区东长安街1号东方广场1层",
+        "phone": "010-90123456",
+        "latitude": 39.9123,
+        "longitude": 116.4123
+      },
+      {
+        "storeName": "蔚来空间｜上海陆家嘴",
+        "address": "上海市浦东新区陆家嘴环路166号",
+        "phone": "021-12345678",
+        "latitude": 31.2212,
+        "longitude": 121.5123
+      },
+      {
+        "storeName": "蔚来中心｜广州太古汇",
+        "address": "广州市天河区天河路385号太古汇1层",
+        "phone": "020-90123456",
+        "latitude": 23.1457,
+        "longitude": 113.3457
+      }
+    ]
   },
   {
     "id": 38,
@@ -853,7 +1704,30 @@
       "https://ts1.tc.mm.bing.net/th/id/R-C.7f59301f7183e19d9c29d722c42241f3?rik=GM4osbOSbqwiMw&riu=http%3a%2f%2fs3.xchuxing.com%2fxchuxing%2farticle%2f2023%2f06%2f14%2f0c1ca20230614194649502.jpg&ehk=k2TgzV1bRJSHbOwHpiMZw%2bKNI%2fKBO12I%2fZ75adN4vDA%3d&risl=&pid=ImgRaw&r=0",
       "https://ts1.tc.mm.bing.net/th/id/R-C.479814ce6fff05a0f5e85655e1ccb568?rik=rNQxAaKi30gKgQ&riu=http%3a%2f%2fimg.pcauto.com.cn%2fimages%2fttauto%2f2023%2f06%2f22%2f7246954603093443129%2f8985dc2d70194381ac3e4a537f7e4255.png&ehk=NgzDfKE1dK7xL10%2b%2fPUxPE02pPOTh39qRxjGjSDNn6o%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "全景天幕+电动尾门，后备厢容积450L，蔚来PanoCinema全景数字座舱"
+    "techHighlight": "全景天幕+电动尾门，后备厢容积450L，蔚来PanoCinema全景数字座舱",
+    "dealerStores": [
+      {
+        "storeName": "蔚来空间｜北京蓝色港湾",
+        "address": "北京市朝阳区朝阳公园路6号蓝色港湾1层",
+        "phone": "010-23456789",
+        "latitude": 39.9346,
+        "longitude": 116.4346
+      },
+      {
+        "storeName": "蔚来空间｜上海虹桥天地",
+        "address": "上海市闵行区申长路688号虹桥天地1层",
+        "phone": "021-45678901",
+        "latitude": 31.1901,
+        "longitude": 121.4346
+      },
+      {
+        "storeName": "蔚来空间｜广州天汇广场",
+        "address": "广州市天河区兴民路222号天汇广场1层",
+        "phone": "020-78901234",
+        "latitude": 23.1235,
+        "longitude": 113.3235
+      }
+    ]
   },
   {
     "id": 39,
@@ -875,7 +1749,30 @@
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.e0AfIN_fFpoqnPlh9n3adQHaD4?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts2.tc.mm.bing.net/th/id/OIP-C.Yrom_F4qFuWQ6M4MFhJ0WAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
     ],
-    "techHighlight": "首次搭载四驱系统，0-100km/h加速2.5秒，电磁悬架+碳陶瓷刹车"
+    "techHighlight": "首次搭载四驱系统，0-100km/h加速2.5秒，电磁悬架+碳陶瓷刹车",
+    "dealerStores": [
+      {
+        "storeName": "雪佛兰北京达世行北苑4S店",
+        "address": "北京市朝阳区来广营西路甲8号",
+        "phone": "010-45678901",
+        "latitude": 39.9842,
+        "longitude": 116.4874
+      },
+      {
+        "storeName": "雪佛兰上海东昌雪莱4S店",
+        "address": "上海市浦东新区沪南路2408号",
+        "phone": "021-56789012",
+        "latitude": 31.1504,
+        "longitude": 121.5276
+      },
+      {
+        "storeName": "雪佛兰广州安骅4S店",
+        "address": "广州市天河区黄埔大道西668号马会家居1楼",
+        "phone": "020-89012345",
+        "latitude": 23.1292,
+        "longitude": 113.3246
+      }
+    ]
   },
   {
     "id": 40,
@@ -897,7 +1794,30 @@
       "https://ts4.tc.mm.bing.net/th/id/OIP-C.WvMYbyEXQcvqULflYiJLjAHaE7?rs=1&pid=ImgDetMain&o=7&rm=3",
       "https://ts1.tc.mm.bing.net/th/id/R-C.1571f268959975bbbc81c8eda65fcea5?rik=G6bQcA%2bCuueDtw&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20200417s%2f144%2fw1118h626%2f20200417%2f9b15-iskepxt1323028.jpg&ehk=RCWvmFAef4lIm8b8mvHxqJXF9OxCq1KInM9Asmqv%2bMk%3d&risl=&pid=ImgRaw&r=0"
     ],
-    "techHighlight": "可变压缩比发动机(8:1-14:1)，ProPILOT辅助驾驶，Bose Performance音响"
+    "techHighlight": "可变压缩比发动机(8:1-14:1)，ProPILOT辅助驾驶，Bose Performance音响",
+    "dealerStores": [
+      {
+        "storeName": "英菲尼迪北京运通英菲尼迪4S店",
+        "address": "北京市朝阳区建国路52号通惠河畔文化创意产业园A10号楼",
+        "phone": "010-67890123",
+        "latitude": 39.9042,
+        "longitude": 116.4174
+      },
+      {
+        "storeName": "英菲尼迪上海永达4S店",
+        "address": "上海市浦东新区龙东大道2711号",
+        "phone": "021-78901234",
+        "latitude": 31.2104,
+        "longitude": 121.5176
+      },
+      {
+        "storeName": "英菲尼迪广州文华英菲尼迪4S店",
+        "address": "广州市天河区大观南路56号",
+        "phone": "020-90123456",
+        "latitude": 23.1392,
+        "longitude": 113.3946
+      }
+    ]
   },
   {
     "id": 41,
@@ -919,6 +1839,29 @@
       "https://img.pcauto.com.cn/images/autovideo/autovideo/20178/22/15033737264418720.jpg",
       "https://youjia-image.cdn.bcebos.com/seriesImage/1623064306813491fff9.png@!w_600_fp"
     ],
-    "techHighlight": "10.25英寸中控屏，倒车影像标配，轻量化车身+经济油耗（6.5L/100km）"
+    "techHighlight": "10.25英寸中控屏，倒车影像标配，轻量化车身+经济油耗（6.5L/100km）",
+    "dealerStores": [
+      {
+        "storeName": "众泰北京众泰隆4S店",
+        "address": "北京市昌平区北七家镇东三旗村508号",
+        "phone": "010-23456789",
+        "latitude": 40.0342,
+        "longitude": 116.2874
+      },
+      {
+        "storeName": "众泰上海众泰汽车4S店",
+        "address": "上海市宝山区江杨南路1388号",
+        "phone": "021-34567890",
+        "latitude": 31.2604,
+        "longitude": 121.4176
+      },
+      {
+        "storeName": "众泰广州众泰汽车4S店",
+        "address": "广州市白云区白云大道北1381号",
+        "phone": "020-78901234",
+        "latitude": 23.1592,
+        "longitude": 113.2746
+      }
+    ]
   }
 ]
